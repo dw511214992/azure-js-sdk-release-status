@@ -34,6 +34,16 @@ stages:
             displayName: 'npm install'
 
           - script: |
+              npm run build
+            displayName: 'npm build'
+
+          - script: |
+              git clone https://github.com/Azure/azure-sdk-for-js
+              git clone https://github.com/Azure/azure-sdk-for-node
+            displayName: 'Clone sdk repo'
+            workingDirectory: ../
+
+          - script: |
               node dist/main.js
             displayName: 'Fetch data from NPM'
 
