@@ -12,7 +12,7 @@ async function main() {
     const {deprecatedTrack1Sdk, notReleaseTrack2Sdk, stableReleaseTrack2Sdk, previewReleaseTrack2Sdk} = await getPackagesOfJs('../azure-sdk-for-js');
 
     const result = `# JS MGMT SDK Release Process
-All data comes from NPM.
+All data comes from NPM, and it is refreshed every day.
 
 ${stableReleaseTrack2Sdk.length > 0 ?
         `## Packages that Stable Release in Track2

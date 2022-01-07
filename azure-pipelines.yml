@@ -54,5 +54,5 @@ stages:
               git status
               git commit -m "Update"
               echo "Pushing now!!!"
-              git push --force origin main
+              git push --force origin HEAD:main
             displayName: 'Publish'
