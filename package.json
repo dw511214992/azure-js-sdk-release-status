@@ -1,0 +1,19 @@
+{
+  "name": "azure-js-sdk-release-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "semver-stable": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.11"
+  }
+}

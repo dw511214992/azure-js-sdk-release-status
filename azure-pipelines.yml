@@ -1,0 +1,48 @@
+# Node.js
+# Build a general Node.js project with npm.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+
+# Node.js
+# Build a general Node.js project with npm.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+
+trigger:
+  branches:
+    include:
+      - main
+
+stages:
+  - stage: InstallAndBuild
+    jobs:
+      - job: Build
+        pool:
+          vmImage: 'ubuntu-latest'
+        steps:
+          - checkout: self
+            persistCredentials: true
+
+          - task: NodeTool@0
+            inputs:
+              versionSpec: '16.x'
+            displayName: 'Install Node.js'
+
+          - script: |
+              npm install
+              npm install -g typescript
+            displayName: 'npm install'
+
+          - script: |
+              node dist/main.js
+            displayName: 'Fetch data from NPM'
+
+          - script: |
+              git config --global user.email "bot@microsoft.com"
+              git config --global user.name "bot"
+              git add .
+              git status
+              git commit -m "Update"
+              echo "Pushing now!!!"
+              git push --force origin main
+            displayName: 'Publish'
