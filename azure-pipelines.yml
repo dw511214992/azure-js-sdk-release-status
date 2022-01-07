@@ -38,8 +38,8 @@ stages:
             displayName: 'npm build'
 
           - script: |
-              git clone https://github.com/Azure/azure-sdk-for-js
-              git clone https://github.com/Azure/azure-sdk-for-node
+              git clone https://github.com/Azure/azure-sdk-for-js.git
+              git clone https://github.com/Azure/azure-sdk-for-node.git
             displayName: 'Clone sdk repo'
             workingDirectory: ../
 

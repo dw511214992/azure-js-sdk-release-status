@@ -6,10 +6,10 @@ import * as fs from "fs";
 
 async function main() {
     console.log("======= NODE SDK==============");
-    const deprecatedNodeSdk = await getDeprecatedPackagesOfNode('D:/projects/azure-sdk-for-node');
+    const deprecatedNodeSdk = await getDeprecatedPackagesOfNode('../azure-sdk-for-node');
 
     console.log("======= Track1 SDK==============");
-    const {deprecatedTrack1Sdk, notReleaseTrack2Sdk, stableReleaseTrack2Sdk, previewReleaseTrack2Sdk} = await getPackagesOfJs('D:/projects/azure-sdk-for-js');
+    const {deprecatedTrack1Sdk, notReleaseTrack2Sdk, stableReleaseTrack2Sdk, previewReleaseTrack2Sdk} = await getPackagesOfJs('../azure-sdk-for-js');
 
     const result = `# JS MGMT SDK Release Process
 All data comes from NPM.

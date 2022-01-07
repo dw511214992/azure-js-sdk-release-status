@@ -2,7 +2,6 @@ import * as fs from "fs";
 import * as path from "path";
 const axios = require('axios')
 export async function getDeprecatedPackagesOfNode(repoPath: string) {
-    return [];
     if (!fs.existsSync(repoPath)) {
         throw new Error(`Cannot find ${repoPath}`);
     }
