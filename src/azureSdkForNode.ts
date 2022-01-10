@@ -28,7 +28,6 @@ export async function getDeprecatedPackagesOfNode(repoPath: string) {
                             replacedPackage = match[0];
                         }
                     }
-                    console.log(`| ${packageName} | ${packageVersion} | ${url} | ${replacedPackage} |`)
                     result.push(`| ${packageName} | ${packageVersion} | ${url} | ${replacedPackage} |`);
                 }
             }
