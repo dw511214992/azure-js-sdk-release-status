@@ -28,6 +28,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-extendedlocation | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-extendedlocation |
 | @azure/arm-features | 3.0.0 | https://www.npmjs.com/package/@azure/arm-features |
 | @azure/arm-hdinsight | 1.1.0 | https://www.npmjs.com/package/@azure/arm-hdinsight |
+| @azure/arm-imagebuilder | 1.0.0 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
 | @azure/arm-iothub | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iothub |
 | @azure/arm-links | 2.0.0 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-loadtestservice | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-loadtestservice |
