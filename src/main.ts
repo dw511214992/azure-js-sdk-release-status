@@ -40,8 +40,8 @@ ${deprecatedTrack1Sdk.join('\n')}
 
 ${deprecatedNodeSdk.length > 0 ?
         `## Deprecated Packages in azure-sdk-for-node
-|  PackageName   | Version  | Url |
-|  :----:  | :----:  | :----: |` : ''}
+|  PackageName   | Version  | Url | ReplacedPackage |
+|  :----:  | :----:  | :----: | :----: |` : ''}
 ${deprecatedNodeSdk.join('\n')}
     `
 
