@@ -243,106 +243,106 @@ All data comes from NPM, and it is refreshed every day.
 ## Deprecated Packages in azure-sdk-for-node
 |  PackageName   | Version  | Url | ReplacedPackage |
 |  :----:  | :----:  | :----: | :----: |
-| azure-arm-hdinsight | 0.13.0 | https://www.npmjs.com/package/azure-arm-hdinsight |  |
+| azure-arm-hdinsight | 0.13.0 | https://www.npmjs.com/package/azure-arm-hdinsight | @azure/arm-hdinsight |
 | azure-arm-hdinsight-jobs | 0.1.1 | https://www.npmjs.com/package/azure-arm-hdinsight-jobs |  |
-| azure-arm-advisor | 1.2.0 | https://www.npmjs.com/package/azure-arm-advisor |  |
-| azure-arm-analysisservices | 2.3.0 | https://www.npmjs.com/package/azure-arm-analysisservices |  |
-| azure-arm-apimanagement | 6.0.0 | https://www.npmjs.com/package/azure-arm-apimanagement |  |
-| azure-arm-appinsights | 2.1.0 | https://www.npmjs.com/package/azure-arm-appinsights |  |
-| azure-arm-authorization | 8.3.1 | https://www.npmjs.com/package/azure-arm-authorization |  |
-| azure-arm-automation | 9.1.0-preview | https://www.npmjs.com/package/azure-arm-automation |  |
-| azure-arm-azurestack | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-azurestack |  |
-| azure-arm-batch | 7.0.0 | https://www.npmjs.com/package/azure-arm-batch |  |
-| azure-arm-batchai | 2.1.0 | https://www.npmjs.com/package/azure-arm-batchai |  |
-| azure-arm-billing | 2.2.0 | https://www.npmjs.com/package/azure-arm-billing |  |
-| azure-arm-cdn | 4.2.0 | https://www.npmjs.com/package/azure-arm-cdn |  |
-| azure-arm-cognitiveservices | 3.0.0 | https://www.npmjs.com/package/azure-arm-cognitiveservices |  |
-| azure-arm-commerce | 2.1.0 | https://www.npmjs.com/package/azure-arm-commerce |  |
-| azure-arm-compute | 10.0.0 | https://www.npmjs.com/package/azure-arm-compute |  |
-| azure-arm-consumption | 6.3.0 | https://www.npmjs.com/package/azure-arm-consumption |  |
-| azure-arm-containerregistry | 5.1.0 | https://www.npmjs.com/package/azure-arm-containerregistry |  |
-| azure-arm-containerinstance | 5.4.0 | https://www.npmjs.com/package/azure-arm-containerinstance |  |
-| azure-arm-containerservice | 8.0.0 | https://www.npmjs.com/package/azure-arm-containerservice |  |
-| azure-arm-cosmosdb | 2.3.0 | https://www.npmjs.com/package/azure-arm-cosmosdb |  |
-| azure-arm-customerinsights | 3.1.0 | https://www.npmjs.com/package/azure-arm-customerinsights |  |
+| azure-arm-advisor | 1.2.0 | https://www.npmjs.com/package/azure-arm-advisor | @azure/arm-advisor |
+| azure-arm-analysisservices | 2.3.0 | https://www.npmjs.com/package/azure-arm-analysisservices | @azure/arm-analysisservices |
+| azure-arm-apimanagement | 6.0.0 | https://www.npmjs.com/package/azure-arm-apimanagement | @azure/arm-apimanagement |
+| azure-arm-appinsights | 2.1.0 | https://www.npmjs.com/package/azure-arm-appinsights | @azure/arm-appinsights |
+| azure-arm-authorization | 8.3.1 | https://www.npmjs.com/package/azure-arm-authorization | @azure/arm-authorization |
+| azure-arm-automation | 9.1.0-preview | https://www.npmjs.com/package/azure-arm-automation | @azure/arm-automation |
+| azure-arm-azurestack | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-azurestack | @azure/arm-azurestack |
+| azure-arm-batch | 7.0.0 | https://www.npmjs.com/package/azure-arm-batch | @azure/arm-batch |
+| azure-arm-batchai | 2.1.0 | https://www.npmjs.com/package/azure-arm-batchai | @azure/arm-batchai |
+| azure-arm-billing | 2.2.0 | https://www.npmjs.com/package/azure-arm-billing | @azure/arm-billing |
+| azure-arm-cdn | 4.2.0 | https://www.npmjs.com/package/azure-arm-cdn | @azure/arm-cdn |
+| azure-arm-cognitiveservices | 3.0.0 | https://www.npmjs.com/package/azure-arm-cognitiveservices | @azure/arm-cognitiveservices |
+| azure-arm-commerce | 2.1.0 | https://www.npmjs.com/package/azure-arm-commerce | @azure/arm-commerce |
+| azure-arm-compute | 10.0.0 | https://www.npmjs.com/package/azure-arm-compute | @azure/arm-compute |
+| azure-arm-consumption | 6.3.0 | https://www.npmjs.com/package/azure-arm-consumption | @azure/arm-consumption |
+| azure-arm-containerregistry | 5.1.0 | https://www.npmjs.com/package/azure-arm-containerregistry | @azure/arm-containerregistry |
+| azure-arm-containerinstance | 5.4.0 | https://www.npmjs.com/package/azure-arm-containerinstance | @azure/arm-containerinstance |
+| azure-arm-containerservice | 8.0.0 | https://www.npmjs.com/package/azure-arm-containerservice | @azure/arm-containerservice |
+| azure-arm-cosmosdb | 2.3.0 | https://www.npmjs.com/package/azure-arm-cosmosdb | @azure/arm-cosmosdb |
+| azure-arm-customerinsights | 3.1.0 | https://www.npmjs.com/package/azure-arm-customerinsights | @azure/arm-customerinsights |
 | azure-arm-datalake-analytics | 3.1.0-preview | https://www.npmjs.com/package/azure-arm-datalake-analytics |  |
-| azure-arm-databox | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-databox |  |
-| azure-arm-databox | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-databox |  |
-| azure-arm-databricks | 1.1.0 | https://www.npmjs.com/package/azure-arm-databricks |  |
-| azure-arm-datacatalog | 1.1.0 | https://www.npmjs.com/package/azure-arm-datacatalog |  |
-| azure-arm-datafactory | 5.3.0 | https://www.npmjs.com/package/azure-arm-datafactory |  |
+| azure-arm-databox | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-databox | @azure/arm-databox |
+| azure-arm-databox | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-databox | @azure/arm-databox |
+| azure-arm-databricks | 1.1.0 | https://www.npmjs.com/package/azure-arm-databricks | @azure/arm-databricks |
+| azure-arm-datacatalog | 1.1.0 | https://www.npmjs.com/package/azure-arm-datacatalog | @azure/arm-datacatalog |
+| azure-arm-datafactory | 5.3.0 | https://www.npmjs.com/package/azure-arm-datafactory | @azure/arm-datafactory |
 | azure-arm-datalake-store | 3.1.2-preview | https://www.npmjs.com/package/azure-arm-datalake-store |  |
-| azure-arm-deploymentmanager | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-deploymentmanager |  |
-| azure-arm-devtestlabs | 3.2.0 | https://www.npmjs.com/package/azure-arm-devtestlabs |  |
-| azure-arm-deviceprovisioningservices | 2.1.0 | https://www.npmjs.com/package/azure-arm-deviceprovisioningservices |  |
-| azure-arm-devspaces | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-devspaces |  |
-| azure-arm-dns | 3.2.0 | https://www.npmjs.com/package/azure-arm-dns |  |
+| azure-arm-deploymentmanager | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-deploymentmanager | @azure/arm-deploymentmanager |
+| azure-arm-devtestlabs | 3.2.0 | https://www.npmjs.com/package/azure-arm-devtestlabs | @azure/arm-devtestlabs |
+| azure-arm-deviceprovisioningservices | 2.1.0 | https://www.npmjs.com/package/azure-arm-deviceprovisioningservices | @azure/arm-deviceprovisioningservices |
+| azure-arm-devspaces | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-devspaces | @azure/arm-devspaces |
+| azure-arm-dns | 3.2.0 | https://www.npmjs.com/package/azure-arm-dns | @azure/arm-dns |
 | azure-arm-documentdb | 1.0.3-preview | https://www.npmjs.com/package/azure-arm-documentdb |  |
-| azure-arm-domainservices | 3.1.0 | https://www.npmjs.com/package/azure-arm-domainservices |  |
-| azure-arm-eventhub | 3.2.0 | https://www.npmjs.com/package/azure-arm-eventhub |  |
-| azure-arm-eventgrid | 3.1.0 | https://www.npmjs.com/package/azure-arm-eventgrid |  |
-| azure-arm-frontdoor | 3.1.0-preview | https://www.npmjs.com/package/azure-arm-frontdoor |  |
-| azure-arm-hanaonazure | 1.2.0 | https://www.npmjs.com/package/azure-arm-hanaonazure |  |
-| azure-arm-hdinsight | 0.13.0 | https://www.npmjs.com/package/azure-arm-hdinsight |  |
+| azure-arm-domainservices | 3.1.0 | https://www.npmjs.com/package/azure-arm-domainservices | @azure/arm-domainservices |
+| azure-arm-eventhub | 3.2.0 | https://www.npmjs.com/package/azure-arm-eventhub | @azure/arm-eventhub |
+| azure-arm-eventgrid | 3.1.0 | https://www.npmjs.com/package/azure-arm-eventgrid | @azure/arm-eventgrid |
+| azure-arm-frontdoor | 3.1.0-preview | https://www.npmjs.com/package/azure-arm-frontdoor | @azure/arm-frontdoor |
+| azure-arm-hanaonazure | 1.2.0 | https://www.npmjs.com/package/azure-arm-hanaonazure | @azure/arm-hanaonazure |
+| azure-arm-hdinsight | 0.13.0 | https://www.npmjs.com/package/azure-arm-hdinsight | @azure/arm-hdinsight |
 | azure-arm-insights | 1.0.2-preview | https://www.npmjs.com/package/azure-arm-insights |  |
 | azure-arm-intune | 1.0.1-preview | https://www.npmjs.com/package/azure-arm-intune |  |
-| azure-arm-iotcentral | 2.1.0 | https://www.npmjs.com/package/azure-arm-iotcentral |  |
-| azure-arm-iothub | 2.1.0 | https://www.npmjs.com/package/azure-arm-iothub |  |
-| azure-arm-iotspaces | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-iotspaces |  |
-| azure-arm-keyvault | 1.2.0 | https://www.npmjs.com/package/azure-arm-keyvault |  |
-| azure-arm-kusto | 2.0.3 | https://www.npmjs.com/package/azure-arm-kusto |  |
-| azure-arm-labservices | 1.0.0 | https://www.npmjs.com/package/azure-arm-labservices |  |
+| azure-arm-iotcentral | 2.1.0 | https://www.npmjs.com/package/azure-arm-iotcentral | @azure/arm-iotcentral |
+| azure-arm-iothub | 2.1.0 | https://www.npmjs.com/package/azure-arm-iothub | @azure/arm-iothub |
+| azure-arm-iotspaces | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-iotspaces | @azure/arm-iotspaces |
+| azure-arm-keyvault | 1.2.0 | https://www.npmjs.com/package/azure-arm-keyvault | @azure/arm-keyvault |
+| azure-arm-kusto | 2.0.3 | https://www.npmjs.com/package/azure-arm-kusto | @azure/arm-kusto |
+| azure-arm-labservices | 1.0.0 | https://www.npmjs.com/package/azure-arm-labservices | @azure/arm-labservices |
 | azure-arm-locationbasedservices | 1.0.0-preview | https://www.npmjs.com/package/azure-arm-locationbasedservices |  |
-| azure-arm-logic | 6.0.0 | https://www.npmjs.com/package/azure-arm-logic |  |
+| azure-arm-logic | 6.0.0 | https://www.npmjs.com/package/azure-arm-logic | @azure/arm-logic |
 | azure-arm-machinelearning | 1.2.0-preview | https://www.npmjs.com/package/azure-arm-machinelearning |  |
-| azure-arm-machinelearningcompute | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-machinelearningcompute |  |
-| azure-arm-machinelearningexperimentation | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-machinelearningexperimentation |  |
-| azure-arm-machinelearningservices | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-machinelearningservices |  |
-| azure-arm-managementgroups | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-managementgroups |  |
-| azure-arm-managementpartner | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-managementpartner |  |
-| azure-arm-maps | 1.1.0 | https://www.npmjs.com/package/azure-arm-maps |  |
-| azure-arm-mariadb | 1.3.0 | https://www.npmjs.com/package/azure-arm-mariadb |  |
-| azure-arm-marketplaceordering | 1.3.1 | https://www.npmjs.com/package/azure-arm-marketplaceordering |  |
-| azure-arm-mediaservices | 6.0.0 | https://www.npmjs.com/package/azure-arm-mediaservices |  |
-| azure-arm-migrate | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-migrate |  |
-| azure-arm-monitor | 5.4.0 | https://www.npmjs.com/package/azure-arm-monitor |  |
-| azure-arm-msi | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-msi |  |
-| azure-arm-mysql | 3.2.0 | https://www.npmjs.com/package/azure-arm-mysql |  |
-| azure-arm-network | 13.0.0 | https://www.npmjs.com/package/azure-arm-network |  |
-| azure-arm-notificationhubs | 1.2.0 | https://www.npmjs.com/package/azure-arm-notificationhubs |  |
-| azure-arm-operationalinsights | 1.2.0 | https://www.npmjs.com/package/azure-arm-operationalinsights |  |
-| azure-arm-operations | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-operations |  |
-| azure-arm-policyinsights | 2.2.0 | https://www.npmjs.com/package/azure-arm-policyinsights |  |
-| azure-arm-postgresql | 4.3.0 | https://www.npmjs.com/package/azure-arm-postgresql |  |
-| azure-arm-powerbidedicated | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-powerbidedicated |  |
-| azure-arm-powerbiembedded | 1.2.0-preview | https://www.npmjs.com/package/azure-arm-powerbiembedded |  |
-| azure-arm-recoveryservicesbackup | 4.1.0 | https://www.npmjs.com/package/azure-arm-recoveryservicesbackup |  |
-| azure-arm-recoveryservices | 3.0.0 | https://www.npmjs.com/package/azure-arm-recoveryservices |  |
-| azure-arm-recoveryservices-siterecovery | 3.2.0 | https://www.npmjs.com/package/azure-arm-recoveryservices-siterecovery |  |
-| azure-arm-rediscache | 3.0.0 | https://www.npmjs.com/package/azure-arm-rediscache |  |
-| azure-arm-relay | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-relay |  |
-| azure-arm-reservations | 2.3.0 | https://www.npmjs.com/package/azure-arm-reservations |  |
-| azure-arm-resourcehealth | 1.1.0 | https://www.npmjs.com/package/azure-arm-resourcehealth |  |
-| azure-arm-resource | 7.4.0 | https://www.npmjs.com/package/azure-arm-resource |  |
-| azure-arm-search | 1.3.0-preview | https://www.npmjs.com/package/azure-arm-search |  |
-| azure-arm-security | 1.2.0-preview | https://www.npmjs.com/package/azure-arm-security |  |
+| azure-arm-machinelearningcompute | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-machinelearningcompute | @azure/arm-machinelearningcompute |
+| azure-arm-machinelearningexperimentation | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-machinelearningexperimentation | @azure/arm-machinelearningexperimentation |
+| azure-arm-machinelearningservices | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-machinelearningservices | @azure/arm-machinelearningservices |
+| azure-arm-managementgroups | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-managementgroups | @azure/arm-managementgroups |
+| azure-arm-managementpartner | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-managementpartner | @azure/arm-managementpartner |
+| azure-arm-maps | 1.1.0 | https://www.npmjs.com/package/azure-arm-maps | @azure/arm-maps |
+| azure-arm-mariadb | 1.3.0 | https://www.npmjs.com/package/azure-arm-mariadb | @azure/arm-mariadb |
+| azure-arm-marketplaceordering | 1.3.1 | https://www.npmjs.com/package/azure-arm-marketplaceordering | @azure/arm-marketplaceordering |
+| azure-arm-mediaservices | 6.0.0 | https://www.npmjs.com/package/azure-arm-mediaservices | @azure/arm-mediaservices |
+| azure-arm-migrate | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-migrate | @azure/arm-migrate |
+| azure-arm-monitor | 5.4.0 | https://www.npmjs.com/package/azure-arm-monitor | @azure/arm-monitor |
+| azure-arm-msi | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-msi | @azure/arm-msi |
+| azure-arm-mysql | 3.2.0 | https://www.npmjs.com/package/azure-arm-mysql | @azure/arm-mysql |
+| azure-arm-network | 13.0.0 | https://www.npmjs.com/package/azure-arm-network | @azure/arm-network |
+| azure-arm-notificationhubs | 1.2.0 | https://www.npmjs.com/package/azure-arm-notificationhubs | @azure/arm-notificationhubs |
+| azure-arm-operationalinsights | 1.2.0 | https://www.npmjs.com/package/azure-arm-operationalinsights | @azure/arm-operationalinsights |
+| azure-arm-operations | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-operations | @azure/arm-operations |
+| azure-arm-policyinsights | 2.2.0 | https://www.npmjs.com/package/azure-arm-policyinsights | @azure/arm-policyinsights |
+| azure-arm-postgresql | 4.3.0 | https://www.npmjs.com/package/azure-arm-postgresql | @azure/arm-postgresql |
+| azure-arm-powerbidedicated | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-powerbidedicated | @azure/arm-powerbidedicated |
+| azure-arm-powerbiembedded | 1.2.0-preview | https://www.npmjs.com/package/azure-arm-powerbiembedded | @azure/arm-powerbiembedded |
+| azure-arm-recoveryservicesbackup | 4.1.0 | https://www.npmjs.com/package/azure-arm-recoveryservicesbackup | @azure/arm-recoveryservicesbackup |
+| azure-arm-recoveryservices | 3.0.0 | https://www.npmjs.com/package/azure-arm-recoveryservices | @azure/arm-recoveryservices |
+| azure-arm-recoveryservices-siterecovery | 3.2.0 | https://www.npmjs.com/package/azure-arm-recoveryservices-siterecovery | @azure/arm-recoveryservices |
+| azure-arm-rediscache | 3.0.0 | https://www.npmjs.com/package/azure-arm-rediscache | @azure/arm-rediscache |
+| azure-arm-relay | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-relay | @azure/arm-relay |
+| azure-arm-reservations | 2.3.0 | https://www.npmjs.com/package/azure-arm-reservations | @azure/arm-reservations |
+| azure-arm-resourcehealth | 1.1.0 | https://www.npmjs.com/package/azure-arm-resourcehealth | @azure/arm-resourcehealth |
+| azure-arm-resource | 7.4.0 | https://www.npmjs.com/package/azure-arm-resource | @azure/arm-resources |
+| azure-arm-search | 1.3.0-preview | https://www.npmjs.com/package/azure-arm-search | @azure/arm-search |
+| azure-arm-security | 1.2.0-preview | https://www.npmjs.com/package/azure-arm-security | @azure/arm-security |
 | azure-arm-servermanagement | 1.1.0 | https://www.npmjs.com/package/azure-arm-servermanagement |  |
-| azure-arm-sb | 3.2.0 | https://www.npmjs.com/package/azure-arm-sb |  |
-| azure-arm-servicefabric | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-servicefabric |  |
-| azure-arm-servicefabricmesh | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-servicefabricmesh |  |
-| azure-arm-servicemap | 2.1.0 | https://www.npmjs.com/package/azure-arm-servicemap |  |
-| azure-arm-signalr | 1.2.0-preview | https://www.npmjs.com/package/azure-arm-signalr |  |
-| azure-arm-sql | 5.7.0 | https://www.npmjs.com/package/azure-arm-sql |  |
-| azure-arm-sqlvirtualmachine | 2.0.0 | https://www.npmjs.com/package/azure-arm-sqlvirtualmachine |  |
-| azure-arm-storsimple1200series | 1.1.0 | https://www.npmjs.com/package/azure-arm-storsimple1200series |  |
-| azure-arm-storageimportexport | 1.2.0 | https://www.npmjs.com/package/azure-arm-storageimportexport |  |
-| azure-arm-storage | 8.1.0 | https://www.npmjs.com/package/azure-arm-storage |  |
-| azure-arm-storagesync | 7.0.0 | https://www.npmjs.com/package/azure-arm-storagesync |  |
-| azure-arm-storsimple8000series | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-storsimple8000series |  |
-| azure-arm-streamanalytics | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-streamanalytics |  |
-| azure-arm-subscription | 1.0.0-preview | https://www.npmjs.com/package/azure-arm-subscription |  |
-| azure-arm-timeseriesinsights | 1.1.0 | https://www.npmjs.com/package/azure-arm-timeseriesinsights |  |
-| azure-arm-trafficmanager | 4.1.0 | https://www.npmjs.com/package/azure-arm-trafficmanager |  |
-| azure-arm-visualstudio | 2.2.0-preview | https://www.npmjs.com/package/azure-arm-visualstudio |  |
-| azure-arm-website | 5.7.0 | https://www.npmjs.com/package/azure-arm-website |  |
+| azure-arm-sb | 3.2.0 | https://www.npmjs.com/package/azure-arm-sb | @azure/arm-servicebus |
+| azure-arm-servicefabric | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-servicefabric | @azure/arm-servicefabric |
+| azure-arm-servicefabricmesh | 2.1.0-preview | https://www.npmjs.com/package/azure-arm-servicefabricmesh | @azure/arm-servicefabricmesh |
+| azure-arm-servicemap | 2.1.0 | https://www.npmjs.com/package/azure-arm-servicemap | @azure/arm-servicemap |
+| azure-arm-signalr | 1.2.0-preview | https://www.npmjs.com/package/azure-arm-signalr | @azure/arm-signalr |
+| azure-arm-sql | 5.7.0 | https://www.npmjs.com/package/azure-arm-sql | @azure/arm-sql |
+| azure-arm-sqlvirtualmachine | 2.0.0 | https://www.npmjs.com/package/azure-arm-sqlvirtualmachine | @azure/arm-sqlvirtualmachine |
+| azure-arm-storsimple1200series | 1.1.0 | https://www.npmjs.com/package/azure-arm-storsimple1200series | @azure/arm-storsimple1200series |
+| azure-arm-storageimportexport | 1.2.0 | https://www.npmjs.com/package/azure-arm-storageimportexport | @azure/arm-storageimportexport |
+| azure-arm-storage | 8.1.0 | https://www.npmjs.com/package/azure-arm-storage | @azure/arm-storage |
+| azure-arm-storagesync | 7.0.0 | https://www.npmjs.com/package/azure-arm-storagesync | @azure/arm-storagesync |
+| azure-arm-storsimple8000series | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-storsimple8000series | @azure/arm-storsimple8000series |
+| azure-arm-streamanalytics | 1.1.0-preview | https://www.npmjs.com/package/azure-arm-streamanalytics | @azure/arm-streamanalytics |
+| azure-arm-subscription | 1.0.0-preview | https://www.npmjs.com/package/azure-arm-subscription | @azure/arm-subscriptions |
+| azure-arm-timeseriesinsights | 1.1.0 | https://www.npmjs.com/package/azure-arm-timeseriesinsights | @azure/arm-timeseriesinsights |
+| azure-arm-trafficmanager | 4.1.0 | https://www.npmjs.com/package/azure-arm-trafficmanager | @azure/arm-trafficmanager |
+| azure-arm-visualstudio | 2.2.0-preview | https://www.npmjs.com/package/azure-arm-visualstudio | @azure/arm-visualstudio |
+| azure-arm-website | 5.7.0 | https://www.npmjs.com/package/azure-arm-website | @azure/arm-appservice |
     
