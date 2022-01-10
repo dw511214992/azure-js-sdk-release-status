@@ -22,12 +22,13 @@ export async function getDeprecatedPackagesOfNode(repoPath: string) {
                     const url = `https://www.npmjs.com/package/${packageName}`;
                     let replacedPackage = '';
                     if (info['versions'][packageVersion]?.deprecated) {
-                        const deprecatedMessage: string = info[packageVersion]?.deprecated;
+                        const deprecatedMessage: string = info['versions'][packageVersion]?.deprecated;
                         const match = /@azure\/arm-[a-z0-9]*/.exec(deprecatedMessage);
                         if (match && match.length === 1) {
                             replacedPackage = match[0];
                         }
                     }
+                    console.log(`| ${packageName} | ${packageVersion} | ${url} | ${replacedPackage} |`)
                     result.push(`| ${packageName} | ${packageVersion} | ${url} | ${replacedPackage} |`);
                 }
             }
