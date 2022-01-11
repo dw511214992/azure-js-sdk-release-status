@@ -9,6 +9,8 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-apimanagement | 8.0.0 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-appservice | 10.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
 | @azure/arm-attestation | 2.0.0 | https://www.npmjs.com/package/@azure/arm-attestation |
+| @azure/arm-avs | 3.0.0 | https://www.npmjs.com/package/@azure/arm-avs |
+| @azure/arm-azurestackhci | 2.0.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
 | @azure/arm-batch | 7.0.0 | https://www.npmjs.com/package/@azure/arm-batch |
 | @azure/arm-billing | 4.0.0 | https://www.npmjs.com/package/@azure/arm-billing |
 | @azure/arm-cdn | 6.0.0 | https://www.npmjs.com/package/@azure/arm-cdn |
@@ -28,7 +30,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-extendedlocation | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-extendedlocation |
 | @azure/arm-features | 3.0.0 | https://www.npmjs.com/package/@azure/arm-features |
 | @azure/arm-hdinsight | 1.1.0 | https://www.npmjs.com/package/@azure/arm-hdinsight |
-| @azure/arm-imagebuilder | 1.0.0 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
+| @azure/arm-imagebuilder | 1.0.1 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
 | @azure/arm-iothub | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iothub |
 | @azure/arm-links | 2.0.0 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-loadtestservice | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-loadtestservice |
@@ -70,6 +72,7 @@ All data comes from NPM, and it is refreshed every day.
 ## Packages that Preview Release in Track2
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
+| @azure/arm-appconfiguration | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
 | @azure/arm-appplatform | 2.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-authorization | 9.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-authorization |
 | @azure/arm-azurestack | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-azurestack |
@@ -84,15 +87,12 @@ All data comes from NPM, and it is refreshed every day.
 ## Packages that still Release in Track1
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
-| @azure/arm-appconfiguration | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
 | @azure/arm-appinsights | 4.0.0 | https://www.npmjs.com/package/@azure/arm-appinsights |
 | @azure/arm-appservice-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2019-03-01-hybrid |
 | @azure/arm-appservice-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
 | @azure/arm-authorization-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2019-03-01-hybrid |
 | @azure/arm-authorization-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2020-09-01-hybrid |
 | @azure/arm-automation | 10.1.1 | https://www.npmjs.com/package/@azure/arm-automation |
-| @azure/arm-avs | 2.1.0 | https://www.npmjs.com/package/@azure/arm-avs |
-| @azure/arm-azurestackhci | 1.1.1 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
 | @azure/arm-batchai | 2.2.1 | https://www.npmjs.com/package/@azure/arm-batchai |
 | @azure/arm-commerce | 3.0.0 | https://www.npmjs.com/package/@azure/arm-commerce |
 | @azure/arm-commerce-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-commerce-profile-2020-09-01-hybrid |
@@ -193,6 +193,8 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-apimanagement | 7.2.0 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-appservice | 9.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
 | @azure/arm-attestation | 1.1.1 | https://www.npmjs.com/package/@azure/arm-attestation |
+| @azure/arm-avs | 2.1.0 | https://www.npmjs.com/package/@azure/arm-avs |
+| @azure/arm-azurestackhci | 1.1.1 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
 | @azure/arm-batch | 6.0.0 | https://www.npmjs.com/package/@azure/arm-batch |
 | @azure/arm-billing | 3.1.1 | https://www.npmjs.com/package/@azure/arm-billing |
 | @azure/arm-cdn | 5.3.1 | https://www.npmjs.com/package/@azure/arm-cdn |
