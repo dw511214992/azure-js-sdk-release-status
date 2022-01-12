@@ -7,7 +7,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-advisor | 3.0.0 | https://www.npmjs.com/package/@azure/arm-advisor |
 | @azure/arm-analysisservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.0.0 | https://www.npmjs.com/package/@azure/arm-apimanagement |
-| @azure/arm-appservice | 10.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
+| @azure/arm-appservice | 11.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
 | @azure/arm-attestation | 2.0.0 | https://www.npmjs.com/package/@azure/arm-attestation |
 | @azure/arm-avs | 3.0.0 | https://www.npmjs.com/package/@azure/arm-avs |
 | @azure/arm-azurestackhci | 2.0.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
@@ -16,7 +16,8 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-cdn | 6.0.0 | https://www.npmjs.com/package/@azure/arm-cdn |
 | @azure/arm-changeanalysis | 2.0.0 | https://www.npmjs.com/package/@azure/arm-changeanalysis |
 | @azure/arm-cognitiveservices | 7.0.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
-| @azure/arm-compute | 17.0.0 | https://www.npmjs.com/package/@azure/arm-compute |
+| @azure/arm-communication | 3.0.0 | https://www.npmjs.com/package/@azure/arm-communication |
+| @azure/arm-compute | 17.1.0 | https://www.npmjs.com/package/@azure/arm-compute |
 | @azure/arm-consumption | 9.0.0 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 8.0.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
@@ -96,7 +97,6 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-batchai | 2.2.1 | https://www.npmjs.com/package/@azure/arm-batchai |
 | @azure/arm-commerce | 3.0.0 | https://www.npmjs.com/package/@azure/arm-commerce |
 | @azure/arm-commerce-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-commerce-profile-2020-09-01-hybrid |
-| @azure/arm-communication | 2.1.1 | https://www.npmjs.com/package/@azure/arm-communication |
 | @azure/arm-compute-profile-2019-03-01-hybrid | 1.1.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2019-03-01-hybrid |
 | @azure/arm-compute-profile-2020-09-01-hybrid | 1.1.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2020-09-01-hybrid |
 | @azure/arm-customerinsights | 3.2.1 | https://www.npmjs.com/package/@azure/arm-customerinsights |
@@ -200,6 +200,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-cdn | 5.3.1 | https://www.npmjs.com/package/@azure/arm-cdn |
 | @azure/arm-changeanalysis | 1.1.1 | https://www.npmjs.com/package/@azure/arm-changeanalysis |
 | @azure/arm-cognitiveservices | 6.1.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
+| @azure/arm-communication | 2.1.1 | https://www.npmjs.com/package/@azure/arm-communication |
 | @azure/arm-compute | 16.5.0 | https://www.npmjs.com/package/@azure/arm-compute |
 | @azure/arm-consumption | 8.0.1 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 7.1.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
