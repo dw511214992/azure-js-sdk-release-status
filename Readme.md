@@ -23,6 +23,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
 | @azure/arm-containerservice | 15.0.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
 | @azure/arm-cosmosdb | 15.0.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
+| @azure/arm-customerinsights | 4.0.0 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-databoxedge | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge |
 | @azure/arm-datadog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datadog |
 | @azure/arm-datafactory | 10.1.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
@@ -75,6 +76,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-storage | 17.0.0 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-streamanalytics | 4.0.0 | https://www.npmjs.com/package/@azure/arm-streamanalytics |
 | @azure/arm-subscriptions | 4.0.0 | https://www.npmjs.com/package/@azure/arm-subscriptions |
+| @azure/arm-synapse | 8.0.0 | https://www.npmjs.com/package/@azure/arm-synapse |
 | @azure/arm-templatespecs | 2.0.0 | https://www.npmjs.com/package/@azure/arm-templatespecs |
 | @azure/arm-videoanalyzer | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-videoanalyzer |
 | @azure/arm-webpubsub | 1.0.0 | https://www.npmjs.com/package/@azure/arm-webpubsub |
@@ -109,7 +111,6 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-commerce-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-commerce-profile-2020-09-01-hybrid |
 | @azure/arm-compute-profile-2019-03-01-hybrid | 1.1.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2019-03-01-hybrid |
 | @azure/arm-compute-profile-2020-09-01-hybrid | 1.1.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2020-09-01-hybrid |
-| @azure/arm-customerinsights | 3.2.1 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-databoxedge-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-databoxedge-profile-2020-09-01-hybrid |
 | @azure/arm-datacatalog | 2.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datamigration | 2.1.1 | https://www.npmjs.com/package/@azure/arm-datamigration |
@@ -179,7 +180,6 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-subscriptions-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-subscriptions-profile-2020-09-01-hybrid |
 | @azure/arm-subscriptions-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-subscriptions-profile-hybrid-2019-03-01 |
 | @azure/arm-support | 1.1.1 | https://www.npmjs.com/package/@azure/arm-support |
-| @azure/arm-synapse | 7.0.0 | https://www.npmjs.com/package/@azure/arm-synapse |
 | @azure/arm-timeseriesinsights | 1.3.1 | https://www.npmjs.com/package/@azure/arm-timeseriesinsights |
 | @azure/arm-trafficmanager | 5.1.1 | https://www.npmjs.com/package/@azure/arm-trafficmanager |
 | @azure/arm-visualstudio | 3.0.0 | https://www.npmjs.com/package/@azure/arm-visualstudio |
@@ -207,6 +207,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-containerregistry | 9.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
 | @azure/arm-containerservice | 14.3.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
 | @azure/arm-cosmosdb | 14.2.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
+| @azure/arm-customerinsights | 3.2.1 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-databoxedge | 1.1.1 | https://www.npmjs.com/package/@azure/arm-databoxedge |
 | @azure/arm-datadog | 2.1.1 | https://www.npmjs.com/package/@azure/arm-datadog |
 | @azure/arm-datafactory | 9.0.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
@@ -251,6 +252,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-storage | 16.1.2 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-streamanalytics | 3.0.0 | https://www.npmjs.com/package/@azure/arm-streamanalytics |
 | @azure/arm-subscriptions | 3.1.2 | https://www.npmjs.com/package/@azure/arm-subscriptions |
+| @azure/arm-synapse | 7.0.0 | https://www.npmjs.com/package/@azure/arm-synapse |
 | @azure/arm-templatespecs | 1.0.0 | https://www.npmjs.com/package/@azure/arm-templatespecs |
 
 ## Deprecated Packages in azure-sdk-for-node
