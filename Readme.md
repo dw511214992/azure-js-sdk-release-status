@@ -43,6 +43,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-healthbot | 2.0.0 | https://www.npmjs.com/package/@azure/arm-healthbot |
 | @azure/arm-imagebuilder | 1.0.1 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
 | @azure/arm-iothub | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iothub |
+| @azure/arm-keyvault | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault |
 | @azure/arm-links | 2.0.0 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-loadtestservice | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-loadtestservice |
 | @azure/arm-locks | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks |
@@ -75,7 +76,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-sql | 9.0.0 | https://www.npmjs.com/package/@azure/arm-sql |
 | @azure/arm-storage | 17.0.0 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-streamanalytics | 4.0.0 | https://www.npmjs.com/package/@azure/arm-streamanalytics |
-| @azure/arm-subscriptions | 4.0.0 | https://www.npmjs.com/package/@azure/arm-subscriptions |
+| @azure/arm-subscriptions | 5.0.0 | https://www.npmjs.com/package/@azure/arm-subscriptions |
 | @azure/arm-synapse | 8.0.0 | https://www.npmjs.com/package/@azure/arm-synapse |
 | @azure/arm-templatespecs | 2.0.0 | https://www.npmjs.com/package/@azure/arm-templatespecs |
 | @azure/arm-videoanalyzer | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-videoanalyzer |
@@ -93,7 +94,10 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-databox | 5.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-databox |
 | @azure/arm-databricks | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-databricks |
 | @azure/arm-datalake-analytics | 2.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-datalake-analytics |
-| @azure/arm-keyvault | 2.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-keyvault |
+| @azure/arm-deploymentmanager | 4.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-deploymentmanager |
+| @azure/arm-hanaonazure | 4.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-hanaonazure |
+| @azure/arm-kubernetesconfiguration | 5.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-kubernetesconfiguration |
+| @azure/arm-labservices | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-labservices |
 | @azure/arm-operations | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-operations |
 | @azure/arm-sqlvirtualmachine | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-sqlvirtualmachine |
 
@@ -114,12 +118,10 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-databoxedge-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-databoxedge-profile-2020-09-01-hybrid |
 | @azure/arm-datacatalog | 2.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datamigration | 2.1.1 | https://www.npmjs.com/package/@azure/arm-datamigration |
-| @azure/arm-deploymentmanager | 3.1.1 | https://www.npmjs.com/package/@azure/arm-deploymentmanager |
 | @azure/arm-dns-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-dns-profile-2019-03-01-hybrid |
 | @azure/arm-dns-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-dns-profile-2020-09-01-hybrid |
 | @azure/arm-edgegateway | 2.1.1 | https://www.npmjs.com/package/@azure/arm-edgegateway |
 | @azure/arm-eventhub-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-eventhub-profile-2020-09-01-hybrid |
-| @azure/arm-hanaonazure | 3.1.1 | https://www.npmjs.com/package/@azure/arm-hanaonazure |
 | @azure/arm-healthcareapis | 1.1.1 | https://www.npmjs.com/package/@azure/arm-healthcareapis |
 | @azure/arm-hybridcompute | 2.1.1 | https://www.npmjs.com/package/@azure/arm-hybridcompute |
 | @azure/arm-hybridkubernetes | 1.2.0 | https://www.npmjs.com/package/@azure/arm-hybridkubernetes |
@@ -128,9 +130,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-iotspaces | 1.2.1 | https://www.npmjs.com/package/@azure/arm-iotspaces |
 | @azure/arm-keyvault-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2019-03-01-hybrid |
 | @azure/arm-keyvault-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2020-09-01-hybrid |
-| @azure/arm-kubernetesconfiguration | 4.0.0 | https://www.npmjs.com/package/@azure/arm-kubernetesconfiguration |
 | @azure/arm-kusto | 6.3.0 | https://www.npmjs.com/package/@azure/arm-kusto |
-| @azure/arm-labservices | 2.0.0 | https://www.npmjs.com/package/@azure/arm-labservices |
 | @azure/arm-locks-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-locks-profile-2020-09-01-hybrid |
 | @azure/arm-locks-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-locks-profile-hybrid-2019-03-01 |
 | @azure/arm-commitmentplans | 1.3.1 | https://www.npmjs.com/package/@azure/arm-commitmentplans |
@@ -224,6 +224,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-hdinsight | 0.24.0 | https://www.npmjs.com/package/@azure/arm-hdinsight |
 | @azure/arm-healthbot | 1.1.1 | https://www.npmjs.com/package/@azure/arm-healthbot |
 | @azure/arm-iothub | 5.1.1 | https://www.npmjs.com/package/@azure/arm-iothub |
+| @azure/arm-keyvault | 1.3.2 | https://www.npmjs.com/package/@azure/arm-keyvault |
 | @azure/arm-links | 1.1.2 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-locks | 1.2.2 | https://www.npmjs.com/package/@azure/arm-locks |
 | @azure/arm-logic | 7.1.1 | https://www.npmjs.com/package/@azure/arm-logic |
