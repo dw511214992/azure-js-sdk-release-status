@@ -98,6 +98,8 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-hanaonazure | 4.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-hanaonazure |
 | @azure/arm-kubernetesconfiguration | 5.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-kubernetesconfiguration |
 | @azure/arm-labservices | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-labservices |
+| @azure/arm-machinelearningcompute | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-machinelearningcompute |
+| @azure/arm-machinelearningexperimentation | 2.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-machinelearningexperimentation |
 | @azure/arm-operations | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-operations |
 | @azure/arm-sqlvirtualmachine | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-sqlvirtualmachine |
 
@@ -136,8 +138,6 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-commitmentplans | 1.3.1 | https://www.npmjs.com/package/@azure/arm-commitmentplans |
 | @azure/arm-webservices | 0.2.0 | https://www.npmjs.com/package/@azure/arm-webservices |
 | @azure/arm-workspaces | 0.2.0 | https://www.npmjs.com/package/@azure/arm-workspaces |
-| @azure/arm-machinelearningcompute | 2.1.1 | https://www.npmjs.com/package/@azure/arm-machinelearningcompute |
-| @azure/arm-machinelearningexperimentation | 1.2.1 | https://www.npmjs.com/package/@azure/arm-machinelearningexperimentation |
 | @azure/arm-machinelearningservices | 4.1.1 | https://www.npmjs.com/package/@azure/arm-machinelearningservices |
 | @azure/arm-managementpartner | 1.2.1 | https://www.npmjs.com/package/@azure/arm-managementpartner |
 | @azure/arm-maps | 2.1.1 | https://www.npmjs.com/package/@azure/arm-maps |
