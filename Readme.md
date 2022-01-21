@@ -25,6 +25,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-cosmosdb | 15.0.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 4.0.0 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-databoxedge | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge |
+| @azure/arm-datacatalog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datadog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datadog |
 | @azure/arm-datafactory | 10.1.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-desktopvirtualization | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
@@ -88,27 +89,40 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-rediscache | 6.0.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
 | @azure/arm-redisenterprisecache | 2.0.0 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
 | @azure/arm-relay | 3.0.0 | https://www.npmjs.com/package/@azure/arm-relay |
+| @azure/arm-reservations | 7.0.0 | https://www.npmjs.com/package/@azure/arm-reservations |
 | @azure/arm-resourcehealth | 3.0.0 | https://www.npmjs.com/package/@azure/arm-resourcehealth |
+| @azure/arm-resourcemover | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resourcemover |
 | @azure/arm-resources | 5.0.0 | https://www.npmjs.com/package/@azure/arm-resources |
 | @azure/arm-resources-subscriptions | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resources-subscriptions |
 | @azure/arm-search | 3.0.0 | https://www.npmjs.com/package/@azure/arm-search |
 | @azure/arm-security | 4.0.0 | https://www.npmjs.com/package/@azure/arm-security |
 | @azure/arm-securityinsight | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-securityinsight |
+| @azure/arm-serialconsole | 2.0.0 | https://www.npmjs.com/package/@azure/arm-serialconsole |
 | @azure/arm-servicebus | 5.0.0 | https://www.npmjs.com/package/@azure/arm-servicebus |
 | @azure/arm-servicefabric | 2.0.0 | https://www.npmjs.com/package/@azure/arm-servicefabric |
+| @azure/arm-signalr | 5.0.0 | https://www.npmjs.com/package/@azure/arm-signalr |
 | @azure/arm-sql | 9.0.0 | https://www.npmjs.com/package/@azure/arm-sql |
 | @azure/arm-storage | 17.0.0 | https://www.npmjs.com/package/@azure/arm-storage |
+| @azure/arm-storagecache | 5.0.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
+| @azure/arm-storagesync | 9.0.0 | https://www.npmjs.com/package/@azure/arm-storagesync |
+| @azure/arm-storsimple1200series | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storsimple1200series |
+| @azure/arm-storsimple8000series | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storsimple8000series |
 | @azure/arm-streamanalytics | 4.0.0 | https://www.npmjs.com/package/@azure/arm-streamanalytics |
 | @azure/arm-subscriptions | 5.0.0 | https://www.npmjs.com/package/@azure/arm-subscriptions |
+| @azure/arm-support | 2.0.0 | https://www.npmjs.com/package/@azure/arm-support |
 | @azure/arm-synapse | 8.0.0 | https://www.npmjs.com/package/@azure/arm-synapse |
 | @azure/arm-templatespecs | 2.0.0 | https://www.npmjs.com/package/@azure/arm-templatespecs |
+| @azure/arm-timeseriesinsights | 2.0.0 | https://www.npmjs.com/package/@azure/arm-timeseriesinsights |
+| @azure/arm-trafficmanager | 6.0.0 | https://www.npmjs.com/package/@azure/arm-trafficmanager |
 | @azure/arm-videoanalyzer | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-videoanalyzer |
+| @azure/arm-vmwarecloudsimple | 2.0.0 | https://www.npmjs.com/package/@azure/arm-vmwarecloudsimple |
 | @azure/arm-webpubsub | 1.0.0 | https://www.npmjs.com/package/@azure/arm-webpubsub |
 
 ## Packages that Preview Release in Track2
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
 | @azure/arm-appconfiguration | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
+| @azure/arm-appinsights | 5.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-appinsights |
 | @azure/arm-appplatform | 2.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-authorization | 9.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-authorization |
 | @azure/arm-azurestack | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-azurestack |
@@ -127,12 +141,14 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-machinelearningcompute | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-machinelearningcompute |
 | @azure/arm-machinelearningexperimentation | 2.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-machinelearningexperimentation |
 | @azure/arm-operations | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-operations |
+| @azure/arm-resourcegraph | 5.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-resourcegraph |
+| @azure/arm-servicemap | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-servicemap |
 | @azure/arm-sqlvirtualmachine | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-sqlvirtualmachine |
+| @azure/arm-visualstudio | 4.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-visualstudio |
 
 ## Packages that still Release in Track1
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
-| @azure/arm-appinsights | 4.0.0 | https://www.npmjs.com/package/@azure/arm-appinsights |
 | @azure/arm-appservice-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2019-03-01-hybrid |
 | @azure/arm-appservice-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
 | @azure/arm-authorization-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2019-03-01-hybrid |
@@ -143,7 +159,6 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-compute-profile-2019-03-01-hybrid | 1.1.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2019-03-01-hybrid |
 | @azure/arm-compute-profile-2020-09-01-hybrid | 1.1.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2020-09-01-hybrid |
 | @azure/arm-databoxedge-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-databoxedge-profile-2020-09-01-hybrid |
-| @azure/arm-datacatalog | 2.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-dns-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-dns-profile-2019-03-01-hybrid |
 | @azure/arm-dns-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-dns-profile-2020-09-01-hybrid |
 | @azure/arm-edgegateway | 2.1.1 | https://www.npmjs.com/package/@azure/arm-edgegateway |
@@ -163,29 +178,14 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-policy-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-policy-profile-hybrid-2019-03-01 |
 | @azure/arm-policyinsights | 4.1.1 | https://www.npmjs.com/package/@azure/arm-policyinsights |
 | @azure/arm-privatedns | 2.1.1 | https://www.npmjs.com/package/@azure/arm-privatedns |
-| @azure/arm-reservations | 6.1.1 | https://www.npmjs.com/package/@azure/arm-reservations |
-| @azure/arm-resourcegraph | 4.2.1 | https://www.npmjs.com/package/@azure/arm-resourcegraph |
-| @azure/arm-resourcemover | 1.1.1 | https://www.npmjs.com/package/@azure/arm-resourcemover |
 | @azure/arm-resources-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-resources-profile-2020-09-01-hybrid |
 | @azure/arm-resources-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-resources-profile-hybrid-2019-03-01 |
-| @azure/arm-serialconsole | 1.1.1 | https://www.npmjs.com/package/@azure/arm-serialconsole |
-| @azure/arm-servicemap | 2.3.1 | https://www.npmjs.com/package/@azure/arm-servicemap |
 | @azure/arm-servicefabricmesh | 2.2.1 | https://www.npmjs.com/package/@azure/arm-servicefabricmesh |
-| @azure/arm-signalr | 4.2.0 | https://www.npmjs.com/package/@azure/arm-signalr |
 | @azure/arm-storage-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-storage-profile-2019-03-01-hybrid |
 | @azure/arm-storage-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-storage-profile-2020-09-01-hybrid |
-| @azure/arm-storagecache | 4.3.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
 | @azure/arm-storageimportexport | 1.3.1 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
-| @azure/arm-storagesync | 8.1.1 | https://www.npmjs.com/package/@azure/arm-storagesync |
-| @azure/arm-storsimple1200series | 1.2.1 | https://www.npmjs.com/package/@azure/arm-storsimple1200series |
-| @azure/arm-storsimple8000series | 1.2.1 | https://www.npmjs.com/package/@azure/arm-storsimple8000series |
 | @azure/arm-subscriptions-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-subscriptions-profile-2020-09-01-hybrid |
 | @azure/arm-subscriptions-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-subscriptions-profile-hybrid-2019-03-01 |
-| @azure/arm-support | 1.1.1 | https://www.npmjs.com/package/@azure/arm-support |
-| @azure/arm-timeseriesinsights | 1.3.1 | https://www.npmjs.com/package/@azure/arm-timeseriesinsights |
-| @azure/arm-trafficmanager | 5.1.1 | https://www.npmjs.com/package/@azure/arm-trafficmanager |
-| @azure/arm-visualstudio | 3.0.0 | https://www.npmjs.com/package/@azure/arm-visualstudio |
-| @azure/arm-vmwarecloudsimple | 1.1.1 | https://www.npmjs.com/package/@azure/arm-vmwarecloudsimple |
 
 ## Deprecated Packages in azure-sdk-for-js because of Stable Release in Track2
 |  PackageName   | Version  | Url |
@@ -211,6 +211,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-cosmosdb | 14.2.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 3.2.1 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-databoxedge | 1.1.1 | https://www.npmjs.com/package/@azure/arm-databoxedge |
+| @azure/arm-datacatalog | 2.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datadog | 2.1.1 | https://www.npmjs.com/package/@azure/arm-datadog |
 | @azure/arm-datafactory | 9.0.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-deviceprovisioningservices | 3.0.0 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
@@ -265,19 +266,31 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-rediscache | 5.0.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
 | @azure/arm-redisenterprisecache | 1.1.1 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
 | @azure/arm-relay | 2.2.1 | https://www.npmjs.com/package/@azure/arm-relay |
+| @azure/arm-reservations | 6.1.1 | https://www.npmjs.com/package/@azure/arm-reservations |
 | @azure/arm-resourcehealth | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resourcehealth |
+| @azure/arm-resourcemover | 1.1.1 | https://www.npmjs.com/package/@azure/arm-resourcemover |
 | @azure/arm-resources | 4.2.2 | https://www.npmjs.com/package/@azure/arm-resources |
 | @azure/arm-resources-subscriptions | 1.0.1 | https://www.npmjs.com/package/@azure/arm-resources-subscriptions |
 | @azure/arm-search | 2.0.0 | https://www.npmjs.com/package/@azure/arm-search |
 | @azure/arm-security | 3.0.0 | https://www.npmjs.com/package/@azure/arm-security |
+| @azure/arm-serialconsole | 1.1.1 | https://www.npmjs.com/package/@azure/arm-serialconsole |
 | @azure/arm-servicebus | 4.1.1 | https://www.npmjs.com/package/@azure/arm-servicebus |
 | @azure/arm-servicefabric | 1.1.1 | https://www.npmjs.com/package/@azure/arm-servicefabric |
+| @azure/arm-signalr | 4.2.0 | https://www.npmjs.com/package/@azure/arm-signalr |
 | @azure/arm-sql | 8.0.0 | https://www.npmjs.com/package/@azure/arm-sql |
 | @azure/arm-storage | 16.1.2 | https://www.npmjs.com/package/@azure/arm-storage |
+| @azure/arm-storagecache | 4.3.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
+| @azure/arm-storagesync | 8.1.1 | https://www.npmjs.com/package/@azure/arm-storagesync |
+| @azure/arm-storsimple1200series | 1.2.1 | https://www.npmjs.com/package/@azure/arm-storsimple1200series |
+| @azure/arm-storsimple8000series | 1.2.1 | https://www.npmjs.com/package/@azure/arm-storsimple8000series |
 | @azure/arm-streamanalytics | 3.0.0 | https://www.npmjs.com/package/@azure/arm-streamanalytics |
 | @azure/arm-subscriptions | 3.1.2 | https://www.npmjs.com/package/@azure/arm-subscriptions |
+| @azure/arm-support | 1.1.1 | https://www.npmjs.com/package/@azure/arm-support |
 | @azure/arm-synapse | 7.0.0 | https://www.npmjs.com/package/@azure/arm-synapse |
 | @azure/arm-templatespecs | 1.0.0 | https://www.npmjs.com/package/@azure/arm-templatespecs |
+| @azure/arm-timeseriesinsights | 1.3.1 | https://www.npmjs.com/package/@azure/arm-timeseriesinsights |
+| @azure/arm-trafficmanager | 5.1.1 | https://www.npmjs.com/package/@azure/arm-trafficmanager |
+| @azure/arm-vmwarecloudsimple | 1.1.1 | https://www.npmjs.com/package/@azure/arm-vmwarecloudsimple |
 
 ## Deprecated Packages in azure-sdk-for-node
 |  PackageName   | Version  | Url | ReplacedPackage |
