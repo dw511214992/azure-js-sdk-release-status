@@ -29,7 +29,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-datadog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datadog |
 | @azure/arm-datafactory | 10.1.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-desktopvirtualization | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
-| @azure/arm-deviceprovisioningservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
+| @azure/arm-deviceprovisioningservices | 4.1.0 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
 | @azure/arm-devspaces | 2.0.0 | https://www.npmjs.com/package/@azure/arm-devspaces |
 | @azure/arm-devtestlabs | 4.0.0 | https://www.npmjs.com/package/@azure/arm-devtestlabs |
 | @azure/arm-digitaltwins | 3.0.0 | https://www.npmjs.com/package/@azure/arm-digitaltwins |
@@ -76,11 +76,13 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-orbital | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-orbital |
 | @azure/arm-peering | 2.0.0 | https://www.npmjs.com/package/@azure/arm-peering |
 | @azure/arm-policy | 5.0.0 | https://www.npmjs.com/package/@azure/arm-policy |
+| @azure/arm-policyinsights | 5.0.0 | https://www.npmjs.com/package/@azure/arm-policyinsights |
 | @azure/arm-portal | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-portal |
 | @azure/arm-postgresql | 6.0.0 | https://www.npmjs.com/package/@azure/arm-postgresql |
 | @azure/arm-postgresql-flexible | 5.0.0 | https://www.npmjs.com/package/@azure/arm-postgresql-flexible |
 | @azure/arm-powerbidedicated | 3.0.0 | https://www.npmjs.com/package/@azure/arm-powerbidedicated |
 | @azure/arm-powerbiembedded | 2.0.0 | https://www.npmjs.com/package/@azure/arm-powerbiembedded |
+| @azure/arm-privatedns | 3.0.0 | https://www.npmjs.com/package/@azure/arm-privatedns |
 | @azure/arm-purview | 1.0.0 | https://www.npmjs.com/package/@azure/arm-purview |
 | @azure/arm-quota | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-quota |
 | @azure/arm-recoveryservices | 5.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices |
@@ -104,6 +106,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-sql | 9.0.0 | https://www.npmjs.com/package/@azure/arm-sql |
 | @azure/arm-storage | 17.0.0 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-storagecache | 5.0.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
+| @azure/arm-storageimportexport | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
 | @azure/arm-storagesync | 9.0.0 | https://www.npmjs.com/package/@azure/arm-storagesync |
 | @azure/arm-storsimple1200series | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storsimple1200series |
 | @azure/arm-storsimple8000series | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storsimple8000series |
@@ -143,6 +146,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-operations | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-operations |
 | @azure/arm-resourcegraph | 5.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-resourcegraph |
 | @azure/arm-servicemap | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-servicemap |
+| @azure/arm-servicefabricmesh | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-servicefabricmesh |
 | @azure/arm-sqlvirtualmachine | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-sqlvirtualmachine |
 | @azure/arm-visualstudio | 4.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-visualstudio |
 
@@ -176,14 +180,10 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-network-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
 | @azure/arm-policy-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-policy-profile-2020-09-01-hybrid |
 | @azure/arm-policy-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-policy-profile-hybrid-2019-03-01 |
-| @azure/arm-policyinsights | 4.1.1 | https://www.npmjs.com/package/@azure/arm-policyinsights |
-| @azure/arm-privatedns | 2.1.1 | https://www.npmjs.com/package/@azure/arm-privatedns |
 | @azure/arm-resources-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-resources-profile-2020-09-01-hybrid |
 | @azure/arm-resources-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-resources-profile-hybrid-2019-03-01 |
-| @azure/arm-servicefabricmesh | 2.2.1 | https://www.npmjs.com/package/@azure/arm-servicefabricmesh |
 | @azure/arm-storage-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-storage-profile-2019-03-01-hybrid |
 | @azure/arm-storage-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-storage-profile-2020-09-01-hybrid |
-| @azure/arm-storageimportexport | 1.3.1 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
 | @azure/arm-subscriptions-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-subscriptions-profile-2020-09-01-hybrid |
 | @azure/arm-subscriptions-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-subscriptions-profile-hybrid-2019-03-01 |
 
@@ -256,10 +256,12 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-operationalinsights | 7.1.1 | https://www.npmjs.com/package/@azure/arm-operationalinsights |
 | @azure/arm-peering | 1.1.1 | https://www.npmjs.com/package/@azure/arm-peering |
 | @azure/arm-policy | 4.2.0 | https://www.npmjs.com/package/@azure/arm-policy |
+| @azure/arm-policyinsights | 4.1.1 | https://www.npmjs.com/package/@azure/arm-policyinsights |
 | @azure/arm-postgresql | 5.2.0 | https://www.npmjs.com/package/@azure/arm-postgresql |
 | @azure/arm-postgresql-flexible | 4.0.0 | https://www.npmjs.com/package/@azure/arm-postgresql-flexible |
 | @azure/arm-powerbidedicated | 2.1.1 | https://www.npmjs.com/package/@azure/arm-powerbidedicated |
 | @azure/arm-powerbiembedded | 1.3.1 | https://www.npmjs.com/package/@azure/arm-powerbiembedded |
+| @azure/arm-privatedns | 2.1.1 | https://www.npmjs.com/package/@azure/arm-privatedns |
 | @azure/arm-recoveryservices | 4.2.1 | https://www.npmjs.com/package/@azure/arm-recoveryservices |
 | @azure/arm-recoveryservicesbackup | 7.1.0 | https://www.npmjs.com/package/@azure/arm-recoveryservicesbackup |
 | @azure/arm-recoveryservices-siterecovery | 3.3.1 | https://www.npmjs.com/package/@azure/arm-recoveryservices-siterecovery |
@@ -280,6 +282,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-sql | 8.0.0 | https://www.npmjs.com/package/@azure/arm-sql |
 | @azure/arm-storage | 16.1.2 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-storagecache | 4.3.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
+| @azure/arm-storageimportexport | 1.3.1 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
 | @azure/arm-storagesync | 8.1.1 | https://www.npmjs.com/package/@azure/arm-storagesync |
 | @azure/arm-storsimple1200series | 1.2.1 | https://www.npmjs.com/package/@azure/arm-storsimple1200series |
 | @azure/arm-storsimple8000series | 1.2.1 | https://www.npmjs.com/package/@azure/arm-storsimple8000series |
