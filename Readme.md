@@ -49,6 +49,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-iotcentral | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iotcentral |
 | @azure/arm-iothub | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iothub |
 | @azure/arm-keyvault | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault |
+| @azure/arm-kusto | 7.0.0 | https://www.npmjs.com/package/@azure/arm-kusto |
 | @azure/arm-links | 2.0.0 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-loadtestservice | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-loadtestservice |
 | @azure/arm-locks | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks |
@@ -125,7 +126,7 @@ All data comes from NPM, and it is refreshed every day.
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
 | @azure/arm-appconfiguration | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
-| @azure/arm-appinsights | 5.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-appinsights |
+| @azure/arm-appinsights | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-appinsights |
 | @azure/arm-appplatform | 2.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-authorization | 9.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-authorization |
 | @azure/arm-azurestack | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-azurestack |
@@ -171,7 +172,6 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-iotspaces | 1.2.1 | https://www.npmjs.com/package/@azure/arm-iotspaces |
 | @azure/arm-keyvault-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2019-03-01-hybrid |
 | @azure/arm-keyvault-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2020-09-01-hybrid |
-| @azure/arm-kusto | 6.3.0 | https://www.npmjs.com/package/@azure/arm-kusto |
 | @azure/arm-locks-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-locks-profile-2020-09-01-hybrid |
 | @azure/arm-locks-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-locks-profile-hybrid-2019-03-01 |
 | @azure/arm-monitor-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-monitor-profile-2019-03-01-hybrid |
@@ -232,6 +232,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-iotcentral | 5.0.0 | https://www.npmjs.com/package/@azure/arm-iotcentral |
 | @azure/arm-iothub | 5.1.1 | https://www.npmjs.com/package/@azure/arm-iothub |
 | @azure/arm-keyvault | 1.3.2 | https://www.npmjs.com/package/@azure/arm-keyvault |
+| @azure/arm-kusto | 6.3.0 | https://www.npmjs.com/package/@azure/arm-kusto |
 | @azure/arm-links | 1.1.2 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-locks | 1.2.2 | https://www.npmjs.com/package/@azure/arm-locks |
 | @azure/arm-logic | 7.1.1 | https://www.npmjs.com/package/@azure/arm-logic |
