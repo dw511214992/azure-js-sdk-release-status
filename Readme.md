@@ -137,7 +137,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-databricks | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-databricks |
 | @azure/arm-datalake-analytics | 2.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-datalake-analytics |
 | @azure/arm-datamigration | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-datamigration |
-| @azure/arm-deploymentmanager | 4.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-deploymentmanager |
+| @azure/arm-deploymentmanager | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-deploymentmanager |
 | @azure/arm-hanaonazure | 4.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-hanaonazure |
 | @azure/arm-kubernetesconfiguration | 5.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-kubernetesconfiguration |
 | @azure/arm-labservices | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-labservices |
