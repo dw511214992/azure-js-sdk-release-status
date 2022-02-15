@@ -17,7 +17,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-changeanalysis | 2.0.0 | https://www.npmjs.com/package/@azure/arm-changeanalysis |
 | @azure/arm-cognitiveservices | 7.0.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
 | @azure/arm-communication | 3.0.0 | https://www.npmjs.com/package/@azure/arm-communication |
-| @azure/arm-compute | 17.1.0 | https://www.npmjs.com/package/@azure/arm-compute |
+| @azure/arm-compute | 17.2.0 | https://www.npmjs.com/package/@azure/arm-compute |
 | @azure/arm-consumption | 9.0.0 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 8.0.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
@@ -47,7 +47,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-hybridkubernetes | 2.0.0 | https://www.npmjs.com/package/@azure/arm-hybridkubernetes |
 | @azure/arm-imagebuilder | 1.0.1 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
 | @azure/arm-iotcentral | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iotcentral |
-| @azure/arm-iothub | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iothub |
+| @azure/arm-iothub | 6.1.0 | https://www.npmjs.com/package/@azure/arm-iothub |
 | @azure/arm-keyvault | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault |
 | @azure/arm-kusto | 7.0.0 | https://www.npmjs.com/package/@azure/arm-kusto |
 | @azure/arm-links | 2.0.0 | https://www.npmjs.com/package/@azure/arm-links |
@@ -87,7 +87,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-purview | 1.0.0 | https://www.npmjs.com/package/@azure/arm-purview |
 | @azure/arm-quota | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-quota |
 | @azure/arm-recoveryservices | 5.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices |
-| @azure/arm-recoveryservicesbackup | 8.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservicesbackup |
+| @azure/arm-recoveryservicesbackup | 8.1.0 | https://www.npmjs.com/package/@azure/arm-recoveryservicesbackup |
 | @azure/arm-recoveryservices-siterecovery | 4.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices-siterecovery |
 | @azure/arm-rediscache | 6.0.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
 | @azure/arm-redisenterprisecache | 2.0.0 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
@@ -105,7 +105,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-servicefabric | 2.0.0 | https://www.npmjs.com/package/@azure/arm-servicefabric |
 | @azure/arm-signalr | 5.0.0 | https://www.npmjs.com/package/@azure/arm-signalr |
 | @azure/arm-sql | 9.0.0 | https://www.npmjs.com/package/@azure/arm-sql |
-| @azure/arm-storage | 17.0.0 | https://www.npmjs.com/package/@azure/arm-storage |
+| @azure/arm-storage | 17.1.0 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-storagecache | 5.0.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
 | @azure/arm-storageimportexport | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
 | @azure/arm-storagesync | 9.0.0 | https://www.npmjs.com/package/@azure/arm-storagesync |
