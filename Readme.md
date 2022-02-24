@@ -27,13 +27,14 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-databoxedge | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge |
 | @azure/arm-datacatalog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datadog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datadog |
-| @azure/arm-datafactory | 10.1.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
+| @azure/arm-datafactory | 10.2.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-desktopvirtualization | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
 | @azure/arm-deviceprovisioningservices | 4.1.0 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
 | @azure/arm-devspaces | 2.0.0 | https://www.npmjs.com/package/@azure/arm-devspaces |
 | @azure/arm-devtestlabs | 4.0.0 | https://www.npmjs.com/package/@azure/arm-devtestlabs |
 | @azure/arm-digitaltwins | 3.0.0 | https://www.npmjs.com/package/@azure/arm-digitaltwins |
 | @azure/arm-dns | 5.0.0 | https://www.npmjs.com/package/@azure/arm-dns |
+| @azure/arm-dnsresolver | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-dnsresolver |
 | @azure/arm-domainservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-domainservices |
 | @azure/arm-eventgrid | 13.0.0 | https://www.npmjs.com/package/@azure/arm-eventgrid |
 | @azure/arm-eventhub | 5.0.0 | https://www.npmjs.com/package/@azure/arm-eventhub |
