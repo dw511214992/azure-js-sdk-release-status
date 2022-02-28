@@ -21,7 +21,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-consumption | 9.0.0 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 8.0.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
-| @azure/arm-containerservice | 15.0.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
+| @azure/arm-containerservice | 15.1.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
 | @azure/arm-cosmosdb | 15.0.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 4.0.0 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-databoxedge | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge |
