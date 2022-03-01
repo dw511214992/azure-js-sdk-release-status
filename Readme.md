@@ -50,7 +50,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-iotcentral | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iotcentral |
 | @azure/arm-iothub | 6.1.0 | https://www.npmjs.com/package/@azure/arm-iothub |
 | @azure/arm-keyvault | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault |
-| @azure/arm-kusto | 7.0.0 | https://www.npmjs.com/package/@azure/arm-kusto |
+| @azure/arm-kusto | 7.1.0 | https://www.npmjs.com/package/@azure/arm-kusto |
 | @azure/arm-links | 2.0.0 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-loadtestservice | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-loadtestservice |
 | @azure/arm-locks | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks |
@@ -67,6 +67,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-mediaservices | 10.0.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
 | @azure/arm-migrate | 2.0.0 | https://www.npmjs.com/package/@azure/arm-migrate |
 | @azure/arm-mixedreality | 4.0.1 | https://www.npmjs.com/package/@azure/arm-mixedreality |
+| @azure/arm-mobilenetwork | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-mobilenetwork |
 | @azure/arm-monitor | 7.0.0 | https://www.npmjs.com/package/@azure/arm-monitor |
 | @azure/arm-msi | 2.0.0 | https://www.npmjs.com/package/@azure/arm-msi |
 | @azure/arm-mysql | 5.0.0 | https://www.npmjs.com/package/@azure/arm-mysql |
