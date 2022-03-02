@@ -17,7 +17,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-changeanalysis | 2.0.0 | https://www.npmjs.com/package/@azure/arm-changeanalysis |
 | @azure/arm-cognitiveservices | 7.0.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
 | @azure/arm-communication | 3.0.0 | https://www.npmjs.com/package/@azure/arm-communication |
-| @azure/arm-compute | 17.2.0 | https://www.npmjs.com/package/@azure/arm-compute |
+| @azure/arm-compute | 17.3.0 | https://www.npmjs.com/package/@azure/arm-compute |
 | @azure/arm-consumption | 9.0.0 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 8.0.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
@@ -71,7 +71,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-monitor | 7.0.0 | https://www.npmjs.com/package/@azure/arm-monitor |
 | @azure/arm-msi | 2.0.0 | https://www.npmjs.com/package/@azure/arm-msi |
 | @azure/arm-mysql | 5.0.0 | https://www.npmjs.com/package/@azure/arm-mysql |
-| @azure/arm-netapp | 15.0.0 | https://www.npmjs.com/package/@azure/arm-netapp |
+| @azure/arm-netapp | 15.1.0 | https://www.npmjs.com/package/@azure/arm-netapp |
 | @azure/arm-network | 26.0.0 | https://www.npmjs.com/package/@azure/arm-network |
 | @azure/arm-notificationhubs | 2.0.0 | https://www.npmjs.com/package/@azure/arm-notificationhubs |
 | @azure/arm-oep | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-oep |
@@ -129,7 +129,7 @@ All data comes from NPM, and it is refreshed every day.
 |  :----:  | :----:  | :----: |
 | @azure/arm-appconfiguration | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
 | @azure/arm-appinsights | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-appinsights |
-| @azure/arm-appplatform | 2.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-appplatform |
+| @azure/arm-appplatform | 2.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-authorization | 9.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-authorization |
 | @azure/arm-azurestack | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-azurestack |
 | @azure/arm-botservice | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-botservice |
@@ -150,7 +150,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-resourcegraph | 5.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-resourcegraph |
 | @azure/arm-servicemap | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-servicemap |
 | @azure/arm-servicefabricmesh | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-servicefabricmesh |
-| @azure/arm-sqlvirtualmachine | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-sqlvirtualmachine |
+| @azure/arm-sqlvirtualmachine | 5.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-sqlvirtualmachine |
 | @azure/arm-visualstudio | 4.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-visualstudio |
 
 ## Packages that still Release in Track1
