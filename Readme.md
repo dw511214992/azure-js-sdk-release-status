@@ -54,6 +54,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-links | 2.0.0 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-loadtestservice | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-loadtestservice |
 | @azure/arm-locks | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks |
+| @azure/arm-locks-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks-profile-2020-09-01-hybrid |
 | @azure/arm-logic | 8.0.0 | https://www.npmjs.com/package/@azure/arm-logic |
 | @azure/arm-webservices | 1.0.0 | https://www.npmjs.com/package/@azure/arm-webservices |
 | @azure/arm-workspaces | 1.0.0 | https://www.npmjs.com/package/@azure/arm-workspaces |
@@ -98,6 +99,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-resourcehealth | 3.0.0 | https://www.npmjs.com/package/@azure/arm-resourcehealth |
 | @azure/arm-resourcemover | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resourcemover |
 | @azure/arm-resources | 5.0.0 | https://www.npmjs.com/package/@azure/arm-resources |
+| @azure/arm-resources-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resources-profile-2020-09-01-hybrid |
 | @azure/arm-resources-subscriptions | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resources-subscriptions |
 | @azure/arm-search | 3.0.0 | https://www.npmjs.com/package/@azure/arm-search |
 | @azure/arm-security | 4.0.0 | https://www.npmjs.com/package/@azure/arm-security |
@@ -174,7 +176,6 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-iotspaces | 1.2.1 | https://www.npmjs.com/package/@azure/arm-iotspaces |
 | @azure/arm-keyvault-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2019-03-01-hybrid |
 | @azure/arm-keyvault-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2020-09-01-hybrid |
-| @azure/arm-locks-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-locks-profile-2020-09-01-hybrid |
 | @azure/arm-locks-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-locks-profile-hybrid-2019-03-01 |
 | @azure/arm-monitor-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-monitor-profile-2019-03-01-hybrid |
 | @azure/arm-monitor-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-monitor-profile-2020-09-01-hybrid |
@@ -182,7 +183,6 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-network-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
 | @azure/arm-policy-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-policy-profile-2020-09-01-hybrid |
 | @azure/arm-policy-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-policy-profile-hybrid-2019-03-01 |
-| @azure/arm-resources-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-resources-profile-2020-09-01-hybrid |
 | @azure/arm-resources-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-resources-profile-hybrid-2019-03-01 |
 | @azure/arm-storage-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-storage-profile-2019-03-01-hybrid |
 | @azure/arm-storage-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-storage-profile-2020-09-01-hybrid |
@@ -237,6 +237,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-kusto | 6.3.0 | https://www.npmjs.com/package/@azure/arm-kusto |
 | @azure/arm-links | 1.1.2 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-locks | 1.2.2 | https://www.npmjs.com/package/@azure/arm-locks |
+| @azure/arm-locks-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-locks-profile-2020-09-01-hybrid |
 | @azure/arm-logic | 7.1.1 | https://www.npmjs.com/package/@azure/arm-logic |
 | @azure/arm-webservices | 0.2.0 | https://www.npmjs.com/package/@azure/arm-webservices |
 | @azure/arm-workspaces | 0.2.0 | https://www.npmjs.com/package/@azure/arm-workspaces |
@@ -275,6 +276,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-resourcehealth | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resourcehealth |
 | @azure/arm-resourcemover | 1.1.1 | https://www.npmjs.com/package/@azure/arm-resourcemover |
 | @azure/arm-resources | 4.2.2 | https://www.npmjs.com/package/@azure/arm-resources |
+| @azure/arm-resources-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-resources-profile-2020-09-01-hybrid |
 | @azure/arm-resources-subscriptions | 1.0.1 | https://www.npmjs.com/package/@azure/arm-resources-subscriptions |
 | @azure/arm-search | 2.0.0 | https://www.npmjs.com/package/@azure/arm-search |
 | @azure/arm-security | 3.0.0 | https://www.npmjs.com/package/@azure/arm-security |
