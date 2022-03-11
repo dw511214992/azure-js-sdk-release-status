@@ -28,6 +28,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-cosmosdb | 15.0.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 4.0.0 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-databoxedge | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge |
+| @azure/arm-databoxedge-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge-profile-2020-09-01-hybrid |
 | @azure/arm-datacatalog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datadog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datadog |
 | @azure/arm-datafactory | 10.2.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
@@ -37,6 +38,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-devtestlabs | 4.0.0 | https://www.npmjs.com/package/@azure/arm-devtestlabs |
 | @azure/arm-digitaltwins | 3.0.0 | https://www.npmjs.com/package/@azure/arm-digitaltwins |
 | @azure/arm-dns | 5.0.0 | https://www.npmjs.com/package/@azure/arm-dns |
+| @azure/arm-dns-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-dns-profile-2020-09-01-hybrid |
 | @azure/arm-dnsresolver | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-dnsresolver |
 | @azure/arm-domainservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-domainservices |
 | @azure/arm-eventgrid | 13.0.0 | https://www.npmjs.com/package/@azure/arm-eventgrid |
@@ -53,7 +55,9 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-imagebuilder | 1.0.1 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
 | @azure/arm-iotcentral | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iotcentral |
 | @azure/arm-iothub | 6.1.0 | https://www.npmjs.com/package/@azure/arm-iothub |
+| @azure/arm-iothub-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-iothub-profile-2020-09-01-hybrid |
 | @azure/arm-keyvault | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault |
+| @azure/arm-keyvault-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2020-09-01-hybrid |
 | @azure/arm-kusto | 7.1.0 | https://www.npmjs.com/package/@azure/arm-kusto |
 | @azure/arm-links | 2.0.0 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-loadtestservice | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-loadtestservice |
@@ -74,6 +78,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-mixedreality | 4.0.1 | https://www.npmjs.com/package/@azure/arm-mixedreality |
 | @azure/arm-mobilenetwork | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-mobilenetwork |
 | @azure/arm-monitor | 7.0.0 | https://www.npmjs.com/package/@azure/arm-monitor |
+| @azure/arm-monitor-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-monitor-profile-2020-09-01-hybrid |
 | @azure/arm-msi | 2.0.0 | https://www.npmjs.com/package/@azure/arm-msi |
 | @azure/arm-mysql | 5.0.0 | https://www.npmjs.com/package/@azure/arm-mysql |
 | @azure/arm-netapp | 15.1.0 | https://www.npmjs.com/package/@azure/arm-netapp |
@@ -172,17 +177,12 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-automation | 10.1.1 | https://www.npmjs.com/package/@azure/arm-automation |
 | @azure/arm-batchai | 2.2.1 | https://www.npmjs.com/package/@azure/arm-batchai |
 | @azure/arm-compute-profile-2019-03-01-hybrid | 1.1.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2019-03-01-hybrid |
-| @azure/arm-databoxedge-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-databoxedge-profile-2020-09-01-hybrid |
 | @azure/arm-dns-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-dns-profile-2019-03-01-hybrid |
-| @azure/arm-dns-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-dns-profile-2020-09-01-hybrid |
 | @azure/arm-edgegateway | 2.1.1 | https://www.npmjs.com/package/@azure/arm-edgegateway |
-| @azure/arm-iothub-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-iothub-profile-2020-09-01-hybrid |
 | @azure/arm-iotspaces | 1.2.1 | https://www.npmjs.com/package/@azure/arm-iotspaces |
 | @azure/arm-keyvault-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2019-03-01-hybrid |
-| @azure/arm-keyvault-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2020-09-01-hybrid |
 | @azure/arm-locks-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-locks-profile-hybrid-2019-03-01 |
 | @azure/arm-monitor-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-monitor-profile-2019-03-01-hybrid |
-| @azure/arm-monitor-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-monitor-profile-2020-09-01-hybrid |
 | @azure/arm-network-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-network-profile-2019-03-01-hybrid |
 | @azure/arm-policy-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-policy-profile-hybrid-2019-03-01 |
 | @azure/arm-resources-profile-hybrid-2019-03-01 | 1.1.1 | https://www.npmjs.com/package/@azure/arm-resources-profile-hybrid-2019-03-01 |
@@ -216,6 +216,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-cosmosdb | 14.2.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 3.2.1 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-databoxedge | 1.1.1 | https://www.npmjs.com/package/@azure/arm-databoxedge |
+| @azure/arm-databoxedge-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-databoxedge-profile-2020-09-01-hybrid |
 | @azure/arm-datacatalog | 2.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datadog | 2.1.1 | https://www.npmjs.com/package/@azure/arm-datadog |
 | @azure/arm-datafactory | 9.0.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
@@ -224,6 +225,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-devtestlabs | 3.3.1 | https://www.npmjs.com/package/@azure/arm-devtestlabs |
 | @azure/arm-digitaltwins | 2.1.1 | https://www.npmjs.com/package/@azure/arm-digitaltwins |
 | @azure/arm-dns | 4.1.1 | https://www.npmjs.com/package/@azure/arm-dns |
+| @azure/arm-dns-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-dns-profile-2020-09-01-hybrid |
 | @azure/arm-domainservices | 3.2.1 | https://www.npmjs.com/package/@azure/arm-domainservices |
 | @azure/arm-eventgrid | 12.0.0 | https://www.npmjs.com/package/@azure/arm-eventgrid |
 | @azure/arm-eventhub | 4.0.0 | https://www.npmjs.com/package/@azure/arm-eventhub |
@@ -237,7 +239,9 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-hybridkubernetes | 1.2.0 | https://www.npmjs.com/package/@azure/arm-hybridkubernetes |
 | @azure/arm-iotcentral | 5.0.0 | https://www.npmjs.com/package/@azure/arm-iotcentral |
 | @azure/arm-iothub | 5.1.1 | https://www.npmjs.com/package/@azure/arm-iothub |
+| @azure/arm-iothub-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-iothub-profile-2020-09-01-hybrid |
 | @azure/arm-keyvault | 1.3.2 | https://www.npmjs.com/package/@azure/arm-keyvault |
+| @azure/arm-keyvault-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2020-09-01-hybrid |
 | @azure/arm-kusto | 6.3.0 | https://www.npmjs.com/package/@azure/arm-kusto |
 | @azure/arm-links | 1.1.2 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-locks | 1.2.2 | https://www.npmjs.com/package/@azure/arm-locks |
@@ -256,6 +260,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-migrate | 1.2.1 | https://www.npmjs.com/package/@azure/arm-migrate |
 | @azure/arm-mixedreality | 3.1.1 | https://www.npmjs.com/package/@azure/arm-mixedreality |
 | @azure/arm-monitor | 6.1.1 | https://www.npmjs.com/package/@azure/arm-monitor |
+| @azure/arm-monitor-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-monitor-profile-2020-09-01-hybrid |
 | @azure/arm-msi | 1.2.1 | https://www.npmjs.com/package/@azure/arm-msi |
 | @azure/arm-mysql | 4.0.0 | https://www.npmjs.com/package/@azure/arm-mysql |
 | @azure/arm-netapp | 14.4.0 | https://www.npmjs.com/package/@azure/arm-netapp |
