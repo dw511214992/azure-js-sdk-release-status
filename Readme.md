@@ -8,6 +8,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-analysisservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.0.0 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-appservice | 11.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
+| @azure/arm-appservice-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
 | @azure/arm-attestation | 2.0.0 | https://www.npmjs.com/package/@azure/arm-attestation |
 | @azure/arm-authorization-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2020-09-01-hybrid |
 | @azure/arm-avs | 3.0.0 | https://www.npmjs.com/package/@azure/arm-avs |
@@ -172,7 +173,6 @@ All data comes from NPM, and it is refreshed every day.
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
 | @azure/arm-appservice-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2019-03-01-hybrid |
-| @azure/arm-appservice-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
 | @azure/arm-authorization-profile-2019-03-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2019-03-01-hybrid |
 | @azure/arm-automation | 10.1.1 | https://www.npmjs.com/package/@azure/arm-automation |
 | @azure/arm-batchai | 2.2.1 | https://www.npmjs.com/package/@azure/arm-batchai |
@@ -196,6 +196,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-analysisservices | 3.0.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 7.2.0 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-appservice | 9.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
+| @azure/arm-appservice-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
 | @azure/arm-attestation | 1.1.1 | https://www.npmjs.com/package/@azure/arm-attestation |
 | @azure/arm-authorization-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2020-09-01-hybrid |
 | @azure/arm-avs | 2.1.0 | https://www.npmjs.com/package/@azure/arm-avs |
