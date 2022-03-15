@@ -104,7 +104,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-recoveryservices | 5.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices |
 | @azure/arm-recoveryservicesbackup | 8.1.0 | https://www.npmjs.com/package/@azure/arm-recoveryservicesbackup |
 | @azure/arm-recoveryservices-siterecovery | 4.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices-siterecovery |
-| @azure/arm-rediscache | 6.0.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
+| @azure/arm-rediscache | 6.1.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
 | @azure/arm-redisenterprisecache | 2.0.0 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
 | @azure/arm-relay | 3.0.0 | https://www.npmjs.com/package/@azure/arm-relay |
 | @azure/arm-reservations | 7.0.0 | https://www.npmjs.com/package/@azure/arm-reservations |
@@ -143,9 +143,9 @@ All data comes from NPM, and it is refreshed every day.
 ## Packages that Preview Release in Track2
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
-| @azure/arm-appconfiguration | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
+| @azure/arm-appconfiguration | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
 | @azure/arm-appinsights | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-appinsights |
-| @azure/arm-appplatform | 2.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-appplatform |
+| @azure/arm-appplatform | 2.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-authorization | 9.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-authorization |
 | @azure/arm-azurestack | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-azurestack |
 | @azure/arm-botservice | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-botservice |
