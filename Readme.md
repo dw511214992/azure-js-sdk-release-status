@@ -13,7 +13,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-authorization-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2020-09-01-hybrid |
 | @azure/arm-avs | 3.0.0 | https://www.npmjs.com/package/@azure/arm-avs |
 | @azure/arm-azurestackhci | 2.1.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
-| @azure/arm-batch | 7.0.0 | https://www.npmjs.com/package/@azure/arm-batch |
+| @azure/arm-batch | 7.1.0 | https://www.npmjs.com/package/@azure/arm-batch |
 | @azure/arm-billing | 4.0.0 | https://www.npmjs.com/package/@azure/arm-billing |
 | @azure/arm-cdn | 6.0.0 | https://www.npmjs.com/package/@azure/arm-cdn |
 | @azure/arm-changeanalysis | 2.0.0 | https://www.npmjs.com/package/@azure/arm-changeanalysis |
@@ -115,7 +115,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-resources-subscriptions | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resources-subscriptions |
 | @azure/arm-search | 3.0.0 | https://www.npmjs.com/package/@azure/arm-search |
 | @azure/arm-security | 4.0.0 | https://www.npmjs.com/package/@azure/arm-security |
-| @azure/arm-securityinsight | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-securityinsight |
+| @azure/arm-securityinsight | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-securityinsight |
 | @azure/arm-serialconsole | 2.0.0 | https://www.npmjs.com/package/@azure/arm-serialconsole |
 | @azure/arm-servicebus | 5.0.0 | https://www.npmjs.com/package/@azure/arm-servicebus |
 | @azure/arm-servicefabric | 2.0.0 | https://www.npmjs.com/package/@azure/arm-servicefabric |
