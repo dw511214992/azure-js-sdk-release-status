@@ -82,6 +82,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-monitor-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-monitor-profile-2020-09-01-hybrid |
 | @azure/arm-msi | 2.0.0 | https://www.npmjs.com/package/@azure/arm-msi |
 | @azure/arm-mysql | 5.0.0 | https://www.npmjs.com/package/@azure/arm-mysql |
+| @azure/arm-mysql-flexible | 2.0.0 | https://www.npmjs.com/package/@azure/arm-mysql-flexible |
 | @azure/arm-netapp | 15.1.0 | https://www.npmjs.com/package/@azure/arm-netapp |
 | @azure/arm-network | 26.0.0 | https://www.npmjs.com/package/@azure/arm-network |
 | @azure/arm-network-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
@@ -123,7 +124,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-sql | 9.0.0 | https://www.npmjs.com/package/@azure/arm-sql |
 | @azure/arm-storage | 17.1.0 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-storage-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storage-profile-2020-09-01-hybrid |
-| @azure/arm-storagecache | 5.0.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
+| @azure/arm-storagecache | 5.1.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
 | @azure/arm-storageimportexport | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
 | @azure/arm-storagesync | 9.0.0 | https://www.npmjs.com/package/@azure/arm-storagesync |
 | @azure/arm-storsimple1200series | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storsimple1200series |
@@ -144,7 +145,7 @@ All data comes from NPM, and it is refreshed every day.
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
 | @azure/arm-appconfiguration | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
-| @azure/arm-appinsights | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-appinsights |
+| @azure/arm-appinsights | 5.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-appinsights |
 | @azure/arm-appplatform | 2.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-authorization | 9.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-authorization |
 | @azure/arm-azurestack | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-azurestack |
@@ -264,6 +265,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-monitor-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-monitor-profile-2020-09-01-hybrid |
 | @azure/arm-msi | 1.2.1 | https://www.npmjs.com/package/@azure/arm-msi |
 | @azure/arm-mysql | 4.0.0 | https://www.npmjs.com/package/@azure/arm-mysql |
+| @azure/arm-mysql-flexible | 1.0.0 | https://www.npmjs.com/package/@azure/arm-mysql-flexible |
 | @azure/arm-netapp | 14.4.0 | https://www.npmjs.com/package/@azure/arm-netapp |
 | @azure/arm-network | 25.4.0 | https://www.npmjs.com/package/@azure/arm-network |
 | @azure/arm-network-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
