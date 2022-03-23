@@ -7,6 +7,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-advisor | 3.0.0 | https://www.npmjs.com/package/@azure/arm-advisor |
 | @azure/arm-analysisservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.0.0 | https://www.npmjs.com/package/@azure/arm-apimanagement |
+| @azure/arm-app | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-app |
 | @azure/arm-appservice | 11.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
 | @azure/arm-appservice-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
 | @azure/arm-attestation | 2.0.0 | https://www.npmjs.com/package/@azure/arm-attestation |
@@ -15,7 +16,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-azurestackhci | 2.1.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
 | @azure/arm-batch | 7.1.0 | https://www.npmjs.com/package/@azure/arm-batch |
 | @azure/arm-billing | 4.0.0 | https://www.npmjs.com/package/@azure/arm-billing |
-| @azure/arm-cdn | 6.0.0 | https://www.npmjs.com/package/@azure/arm-cdn |
+| @azure/arm-cdn | 7.0.0 | https://www.npmjs.com/package/@azure/arm-cdn |
 | @azure/arm-changeanalysis | 2.0.0 | https://www.npmjs.com/package/@azure/arm-changeanalysis |
 | @azure/arm-cognitiveservices | 7.0.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
 | @azure/arm-commerce-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-commerce-profile-2020-09-01-hybrid |
@@ -25,7 +26,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-consumption | 9.0.0 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 8.0.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
-| @azure/arm-containerservice | 15.1.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
+| @azure/arm-containerservice | 15.2.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
 | @azure/arm-cosmosdb | 15.0.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 4.0.0 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-databoxedge | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge |
