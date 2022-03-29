@@ -51,7 +51,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-frontdoor | 5.0.0 | https://www.npmjs.com/package/@azure/arm-frontdoor |
 | @azure/arm-hdinsight | 1.1.0 | https://www.npmjs.com/package/@azure/arm-hdinsight |
 | @azure/arm-healthbot | 2.0.0 | https://www.npmjs.com/package/@azure/arm-healthbot |
-| @azure/arm-healthcareapis | 2.0.0 | https://www.npmjs.com/package/@azure/arm-healthcareapis |
+| @azure/arm-healthcareapis | 2.1.0 | https://www.npmjs.com/package/@azure/arm-healthcareapis |
 | @azure/arm-hybridcompute | 3.0.0 | https://www.npmjs.com/package/@azure/arm-hybridcompute |
 | @azure/arm-hybridkubernetes | 2.0.0 | https://www.npmjs.com/package/@azure/arm-hybridkubernetes |
 | @azure/arm-imagebuilder | 1.0.1 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
@@ -78,7 +78,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-mediaservices | 10.0.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
 | @azure/arm-migrate | 2.0.0 | https://www.npmjs.com/package/@azure/arm-migrate |
 | @azure/arm-mixedreality | 4.0.1 | https://www.npmjs.com/package/@azure/arm-mixedreality |
-| @azure/arm-mobilenetwork | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-mobilenetwork |
+| @azure/arm-mobilenetwork | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-mobilenetwork |
 | @azure/arm-monitor | 7.0.0 | https://www.npmjs.com/package/@azure/arm-monitor |
 | @azure/arm-monitor-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-monitor-profile-2020-09-01-hybrid |
 | @azure/arm-msi | 2.0.0 | https://www.npmjs.com/package/@azure/arm-msi |
