@@ -4,7 +4,7 @@ All data comes from NPM, and it is refreshed every day.
 ## Packages that Stable Release in Track2
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
-| @azure/arm-advisor | 3.0.0 | https://www.npmjs.com/package/@azure/arm-advisor |
+| @azure/arm-advisor | 3.0.1 | https://www.npmjs.com/package/@azure/arm-advisor |
 | @azure/arm-analysisservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.0.0 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-app | 1.0.0-alpha.20220330.1 | https://www.npmjs.com/package/@azure/arm-app |
@@ -49,6 +49,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-extendedlocation | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-extendedlocation |
 | @azure/arm-features | 3.0.0 | https://www.npmjs.com/package/@azure/arm-features |
 | @azure/arm-frontdoor | 5.0.0 | https://www.npmjs.com/package/@azure/arm-frontdoor |
+| @azure/arm-hardwaresecuritymodules | 1.0.0 | https://www.npmjs.com/package/@azure/arm-hardwaresecuritymodules |
 | @azure/arm-hdinsight | 1.1.0 | https://www.npmjs.com/package/@azure/arm-hdinsight |
 | @azure/arm-healthbot | 2.0.0 | https://www.npmjs.com/package/@azure/arm-healthbot |
 | @azure/arm-healthcareapis | 2.1.0 | https://www.npmjs.com/package/@azure/arm-healthcareapis |
@@ -116,14 +117,14 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-resources-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resources-profile-2020-09-01-hybrid |
 | @azure/arm-resources-subscriptions | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resources-subscriptions |
 | @azure/arm-search | 3.0.0 | https://www.npmjs.com/package/@azure/arm-search |
-| @azure/arm-security | 4.0.0 | https://www.npmjs.com/package/@azure/arm-security |
+| @azure/arm-security | 5.0.0 | https://www.npmjs.com/package/@azure/arm-security |
 | @azure/arm-securityinsight | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-securityinsight |
 | @azure/arm-serialconsole | 2.0.0 | https://www.npmjs.com/package/@azure/arm-serialconsole |
 | @azure/arm-servicebus | 5.0.0 | https://www.npmjs.com/package/@azure/arm-servicebus |
 | @azure/arm-servicefabric | 2.0.0 | https://www.npmjs.com/package/@azure/arm-servicefabric |
-| @azure/arm-signalr | 5.0.0 | https://www.npmjs.com/package/@azure/arm-signalr |
+| @azure/arm-signalr | 5.1.0 | https://www.npmjs.com/package/@azure/arm-signalr |
 | @azure/arm-sql | 9.0.0 | https://www.npmjs.com/package/@azure/arm-sql |
-| @azure/arm-storage | 17.1.0 | https://www.npmjs.com/package/@azure/arm-storage |
+| @azure/arm-storage | 17.2.0 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-storage-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storage-profile-2020-09-01-hybrid |
 | @azure/arm-storagecache | 5.1.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
 | @azure/arm-storageimportexport | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
