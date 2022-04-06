@@ -18,13 +18,13 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-billing | 4.0.0 | https://www.npmjs.com/package/@azure/arm-billing |
 | @azure/arm-cdn | 7.0.0 | https://www.npmjs.com/package/@azure/arm-cdn |
 | @azure/arm-changeanalysis | 2.0.0 | https://www.npmjs.com/package/@azure/arm-changeanalysis |
-| @azure/arm-cognitiveservices | 7.0.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
+| @azure/arm-cognitiveservices | 7.1.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
 | @azure/arm-commerce-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-commerce-profile-2020-09-01-hybrid |
 | @azure/arm-communication | 3.0.0 | https://www.npmjs.com/package/@azure/arm-communication |
 | @azure/arm-compute | 17.3.0 | https://www.npmjs.com/package/@azure/arm-compute |
 | @azure/arm-compute-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2020-09-01-hybrid |
 | @azure/arm-consumption | 9.0.0 | https://www.npmjs.com/package/@azure/arm-consumption |
-| @azure/arm-containerinstance | 8.0.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
+| @azure/arm-containerinstance | 8.1.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
 | @azure/arm-containerservice | 15.2.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
 | @azure/arm-cosmosdb | 15.0.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
@@ -33,7 +33,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-databoxedge-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge-profile-2020-09-01-hybrid |
 | @azure/arm-datacatalog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datadog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datadog |
-| @azure/arm-datafactory | 10.2.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
+| @azure/arm-datafactory | 10.3.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-desktopvirtualization | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
 | @azure/arm-deviceprovisioningservices | 4.1.0 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
 | @azure/arm-devspaces | 2.0.0 | https://www.npmjs.com/package/@azure/arm-devspaces |
