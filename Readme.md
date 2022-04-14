@@ -8,7 +8,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-analysisservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.0.1 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-app | 1.0.0-alpha.20220330.1 | https://www.npmjs.com/package/@azure/arm-app |
-| @azure/arm-appservice | 11.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
+| @azure/arm-appservice | 12.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
 | @azure/arm-appservice-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
 | @azure/arm-attestation | 2.0.0 | https://www.npmjs.com/package/@azure/arm-attestation |
 | @azure/arm-authorization-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2020-09-01-hybrid |
@@ -78,7 +78,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-maps | 3.0.0 | https://www.npmjs.com/package/@azure/arm-maps |
 | @azure/arm-mariadb | 2.0.0 | https://www.npmjs.com/package/@azure/arm-mariadb |
 | @azure/arm-marketplaceordering | 3.0.0 | https://www.npmjs.com/package/@azure/arm-marketplaceordering |
-| @azure/arm-mediaservices | 10.0.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
+| @azure/arm-mediaservices | 11.0.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
 | @azure/arm-migrate | 2.0.0 | https://www.npmjs.com/package/@azure/arm-migrate |
 | @azure/arm-mixedreality | 4.0.1 | https://www.npmjs.com/package/@azure/arm-mixedreality |
 | @azure/arm-mobilenetwork | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-mobilenetwork |
@@ -150,7 +150,7 @@ All data comes from NPM, and it is refreshed every day.
 |  :----:  | :----:  | :----: |
 | @azure/arm-appconfiguration | 3.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
 | @azure/arm-appinsights | 5.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-appinsights |
-| @azure/arm-appplatform | 2.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-appplatform |
+| @azure/arm-appplatform | 2.0.0-beta.5 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-authorization | 9.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-authorization |
 | @azure/arm-azurestack | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-azurestack |
 | @azure/arm-botservice | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-botservice |
