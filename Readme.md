@@ -13,6 +13,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-attestation | 2.0.0 | https://www.npmjs.com/package/@azure/arm-attestation |
 | @azure/arm-authorization-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2020-09-01-hybrid |
 | @azure/arm-avs | 3.0.0 | https://www.npmjs.com/package/@azure/arm-avs |
+| @azure/arm-azureadexternalidentities | 1.0.0-alpha.20220419.2 | https://www.npmjs.com/package/@azure/arm-azureadexternalidentities |
 | @azure/arm-azurestackhci | 2.1.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
 | @azure/arm-batch | 7.1.1 | https://www.npmjs.com/package/@azure/arm-batch |
 | @azure/arm-billing | 4.0.1 | https://www.npmjs.com/package/@azure/arm-billing |
@@ -32,7 +33,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-dashboard | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-dashboard |
 | @azure/arm-databoxedge | 2.0.1 | https://www.npmjs.com/package/@azure/arm-databoxedge |
 | @azure/arm-databoxedge-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge-profile-2020-09-01-hybrid |
-| @azure/arm-datacatalog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
+| @azure/arm-datacatalog | 4.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datadog | 3.0.0 | https://www.npmjs.com/package/@azure/arm-datadog |
 | @azure/arm-datafactory | 10.3.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-desktopvirtualization | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
