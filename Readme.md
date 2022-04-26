@@ -17,7 +17,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-azurestackhci | 2.1.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
 | @azure/arm-batch | 7.1.1 | https://www.npmjs.com/package/@azure/arm-batch |
 | @azure/arm-billing | 4.0.1 | https://www.npmjs.com/package/@azure/arm-billing |
-| @azure/arm-cdn | 7.0.0 | https://www.npmjs.com/package/@azure/arm-cdn |
+| @azure/arm-cdn | 7.0.1 | https://www.npmjs.com/package/@azure/arm-cdn |
 | @azure/arm-changeanalysis | 2.0.1 | https://www.npmjs.com/package/@azure/arm-changeanalysis |
 | @azure/arm-cognitiveservices | 7.1.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
 | @azure/arm-commerce-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-commerce-profile-2020-09-01-hybrid |
@@ -113,7 +113,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-rediscache | 6.1.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
 | @azure/arm-redisenterprisecache | 2.1.0 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
 | @azure/arm-relay | 3.0.0 | https://www.npmjs.com/package/@azure/arm-relay |
-| @azure/arm-reservations | 7.0.0 | https://www.npmjs.com/package/@azure/arm-reservations |
+| @azure/arm-reservations | 7.1.0 | https://www.npmjs.com/package/@azure/arm-reservations |
 | @azure/arm-resourcehealth | 3.0.0 | https://www.npmjs.com/package/@azure/arm-resourcehealth |
 | @azure/arm-resourcemover | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resourcemover |
 | @azure/arm-resources | 5.0.1 | https://www.npmjs.com/package/@azure/arm-resources |
