@@ -145,7 +145,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-timeseriesinsights | 2.0.0 | https://www.npmjs.com/package/@azure/arm-timeseriesinsights |
 | @azure/arm-trafficmanager | 6.0.1 | https://www.npmjs.com/package/@azure/arm-trafficmanager |
 | @azure/arm-videoanalyzer | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-videoanalyzer |
-| @azure/arm-vmwarecloudsimple | 2.0.0 | https://www.npmjs.com/package/@azure/arm-vmwarecloudsimple |
+| @azure/arm-vmwarecloudsimple | 3.0.0 | https://www.npmjs.com/package/@azure/arm-vmwarecloudsimple |
 | @azure/arm-webpubsub | 1.0.0 | https://www.npmjs.com/package/@azure/arm-webpubsub |
 
 ## Packages that Preview Release in Track2
@@ -169,7 +169,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-commitmentplans | 2.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-commitmentplans |
 | @azure/arm-machinelearningcompute | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-machinelearningcompute |
 | @azure/arm-machinelearningexperimentation | 2.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-machinelearningexperimentation |
-| @azure/arm-operations | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-operations |
+| @azure/arm-operations | 4.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-operations |
 | @azure/arm-resourcegraph | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-resourcegraph |
 | @azure/arm-servicemap | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-servicemap |
 | @azure/arm-servicefabricmesh | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-servicefabricmesh |
