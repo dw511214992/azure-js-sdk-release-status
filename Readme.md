@@ -35,7 +35,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-databoxedge-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge-profile-2020-09-01-hybrid |
 | @azure/arm-datacatalog | 4.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datadog | 3.0.1 | https://www.npmjs.com/package/@azure/arm-datadog |
-| @azure/arm-datafactory | 10.4.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
+| @azure/arm-datafactory | 10.5.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-desktopvirtualization | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
 | @azure/arm-deviceprovisioningservices | 5.0.0 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
 | @azure/arm-devspaces | 2.0.0 | https://www.npmjs.com/package/@azure/arm-devspaces |
@@ -108,7 +108,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-purview | 1.0.1 | https://www.npmjs.com/package/@azure/arm-purview |
 | @azure/arm-quota | 1.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-quota |
 | @azure/arm-recoveryservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-recoveryservices |
-| @azure/arm-recoveryservicesbackup | 8.1.1 | https://www.npmjs.com/package/@azure/arm-recoveryservicesbackup |
+| @azure/arm-recoveryservicesbackup | 8.2.0 | https://www.npmjs.com/package/@azure/arm-recoveryservicesbackup |
 | @azure/arm-recoveryservices-siterecovery | 4.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices-siterecovery |
 | @azure/arm-rediscache | 6.1.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
 | @azure/arm-redisenterprisecache | 2.1.0 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
