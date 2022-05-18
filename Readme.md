@@ -19,6 +19,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-billing | 4.0.1 | https://www.npmjs.com/package/@azure/arm-billing |
 | @azure/arm-cdn | 7.0.1 | https://www.npmjs.com/package/@azure/arm-cdn |
 | @azure/arm-changeanalysis | 2.0.1 | https://www.npmjs.com/package/@azure/arm-changeanalysis |
+| @azure/arm-changes | 1.0.0 | https://www.npmjs.com/package/@azure/arm-changes |
 | @azure/arm-cognitiveservices | 7.1.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
 | @azure/arm-commerce-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-commerce-profile-2020-09-01-hybrid |
 | @azure/arm-communication | 3.0.1 | https://www.npmjs.com/package/@azure/arm-communication |
