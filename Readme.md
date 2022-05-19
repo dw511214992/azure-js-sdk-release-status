@@ -90,7 +90,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-mysql | 5.0.1 | https://www.npmjs.com/package/@azure/arm-mysql |
 | @azure/arm-mysql-flexible | 3.0.0 | https://www.npmjs.com/package/@azure/arm-mysql-flexible |
 | @azure/arm-netapp | 15.1.1 | https://www.npmjs.com/package/@azure/arm-netapp |
-| @azure/arm-network | 27.0.0 | https://www.npmjs.com/package/@azure/arm-network |
+| @azure/arm-network | 28.0.0 | https://www.npmjs.com/package/@azure/arm-network |
 | @azure/arm-network-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
 | @azure/arm-notificationhubs | 2.0.1 | https://www.npmjs.com/package/@azure/arm-notificationhubs |
 | @azure/arm-oep | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-oep |
@@ -123,11 +123,11 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-scvmm | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-scvmm |
 | @azure/arm-search | 3.0.1 | https://www.npmjs.com/package/@azure/arm-search |
 | @azure/arm-security | 5.0.0 | https://www.npmjs.com/package/@azure/arm-security |
-| @azure/arm-securityinsight | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-securityinsight |
+| @azure/arm-securityinsight | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-securityinsight |
 | @azure/arm-serialconsole | 2.0.1 | https://www.npmjs.com/package/@azure/arm-serialconsole |
 | @azure/arm-servicebus | 6.0.0 | https://www.npmjs.com/package/@azure/arm-servicebus |
 | @azure/arm-servicefabric | 2.0.1 | https://www.npmjs.com/package/@azure/arm-servicefabric |
-| @azure/arm-servicelinker | 1.0.0 | https://www.npmjs.com/package/@azure/arm-servicelinker |
+| @azure/arm-servicelinker | 2.0.0 | https://www.npmjs.com/package/@azure/arm-servicelinker |
 | @azure/arm-signalr | 5.1.0 | https://www.npmjs.com/package/@azure/arm-signalr |
 | @azure/arm-sql | 9.0.1 | https://www.npmjs.com/package/@azure/arm-sql |
 | @azure/arm-storage | 17.2.0 | https://www.npmjs.com/package/@azure/arm-storage |
