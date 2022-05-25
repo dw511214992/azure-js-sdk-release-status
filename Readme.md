@@ -29,7 +29,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-consumption | 9.0.1 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 8.1.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
-| @azure/arm-containerservice | 16.0.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
+| @azure/arm-containerservice | 16.1.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
 | @azure/arm-cosmosdb | 15.0.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 4.0.1 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-dashboard | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-dashboard |
@@ -47,6 +47,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-dns-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-dns-profile-2020-09-01-hybrid |
 | @azure/arm-dnsresolver | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-dnsresolver |
 | @azure/arm-domainservices | 4.0.1 | https://www.npmjs.com/package/@azure/arm-domainservices |
+| @azure/arm-dynatrace | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-dynatrace |
 | @azure/arm-eventgrid | 13.0.0 | https://www.npmjs.com/package/@azure/arm-eventgrid |
 | @azure/arm-eventhub | 5.0.1 | https://www.npmjs.com/package/@azure/arm-eventhub |
 | @azure/arm-eventhub-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-eventhub-profile-2020-09-01-hybrid |
@@ -110,7 +111,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-purview | 1.0.1 | https://www.npmjs.com/package/@azure/arm-purview |
 | @azure/arm-quota | 1.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-quota |
 | @azure/arm-recoveryservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-recoveryservices |
-| @azure/arm-recoveryservicesbackup | 8.2.0 | https://www.npmjs.com/package/@azure/arm-recoveryservicesbackup |
+| @azure/arm-recoveryservicesbackup | 9.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservicesbackup |
 | @azure/arm-recoveryservices-siterecovery | 4.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices-siterecovery |
 | @azure/arm-rediscache | 6.1.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
 | @azure/arm-redisenterprisecache | 2.1.0 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
