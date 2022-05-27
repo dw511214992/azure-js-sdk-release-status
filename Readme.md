@@ -8,6 +8,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-analysisservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.0.1 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-app | 1.0.0-alpha.20220330.1 | https://www.npmjs.com/package/@azure/arm-app |
+| @azure/arm-appcontainers | 1.0.0-alpha.20220527.2 | https://www.npmjs.com/package/@azure/arm-appcontainers |
 | @azure/arm-appplatform | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-appservice | 12.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
 | @azure/arm-appservice-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
@@ -15,7 +16,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-authorization-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2020-09-01-hybrid |
 | @azure/arm-avs | 3.0.0 | https://www.npmjs.com/package/@azure/arm-avs |
 | @azure/arm-azureadexternalidentities | 1.0.0 | https://www.npmjs.com/package/@azure/arm-azureadexternalidentities |
-| @azure/arm-azurestackhci | 2.1.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
+| @azure/arm-azurestackhci | 3.0.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
 | @azure/arm-batch | 7.1.1 | https://www.npmjs.com/package/@azure/arm-batch |
 | @azure/arm-billing | 4.0.1 | https://www.npmjs.com/package/@azure/arm-billing |
 | @azure/arm-cdn | 7.0.1 | https://www.npmjs.com/package/@azure/arm-cdn |
@@ -48,6 +49,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-dnsresolver | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-dnsresolver |
 | @azure/arm-domainservices | 4.0.1 | https://www.npmjs.com/package/@azure/arm-domainservices |
 | @azure/arm-dynatrace | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-dynatrace |
+| @azure/arm-education | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-education |
 | @azure/arm-eventgrid | 13.0.0 | https://www.npmjs.com/package/@azure/arm-eventgrid |
 | @azure/arm-eventhub | 5.0.1 | https://www.npmjs.com/package/@azure/arm-eventhub |
 | @azure/arm-eventhub-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-eventhub-profile-2020-09-01-hybrid |
@@ -73,6 +75,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-locks | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks |
 | @azure/arm-locks-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks-profile-2020-09-01-hybrid |
 | @azure/arm-logic | 8.0.0 | https://www.npmjs.com/package/@azure/arm-logic |
+| @azure/arm-machinelearning | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-machinelearning |
 | @azure/arm-webservices | 1.0.1 | https://www.npmjs.com/package/@azure/arm-webservices |
 | @azure/arm-workspaces | 1.0.1 | https://www.npmjs.com/package/@azure/arm-workspaces |
 | @azure/arm-machinelearningservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-machinelearningservices |
