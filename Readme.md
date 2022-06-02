@@ -8,7 +8,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-analysisservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.0.1 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-app | 1.0.0-alpha.20220330.1 | https://www.npmjs.com/package/@azure/arm-app |
-| @azure/arm-appcontainers | 1.0.0-alpha.20220527.2 | https://www.npmjs.com/package/@azure/arm-appcontainers |
+| @azure/arm-appcontainers | 1.0.0 | https://www.npmjs.com/package/@azure/arm-appcontainers |
 | @azure/arm-appplatform | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-appservice | 12.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
 | @azure/arm-appservice-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
@@ -102,7 +102,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-notificationhubs | 2.0.1 | https://www.npmjs.com/package/@azure/arm-notificationhubs |
 | @azure/arm-oep | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-oep |
 | @azure/arm-operationalinsights | 8.0.1 | https://www.npmjs.com/package/@azure/arm-operationalinsights |
-| @azure/arm-orbital | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-orbital |
+| @azure/arm-orbital | 1.0.0 | https://www.npmjs.com/package/@azure/arm-orbital |
 | @azure/arm-peering | 2.0.1 | https://www.npmjs.com/package/@azure/arm-peering |
 | @azure/arm-policy | 5.0.1 | https://www.npmjs.com/package/@azure/arm-policy |
 | @azure/arm-policy-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-policy-profile-2020-09-01-hybrid |
@@ -160,7 +160,7 @@ All data comes from NPM, and it is refreshed every day.
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
 | @azure/arm-appconfiguration | 3.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
-| @azure/arm-appinsights | 5.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-appinsights |
+| @azure/arm-appinsights | 5.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-appinsights |
 | @azure/arm-authorization | 9.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-authorization |
 | @azure/arm-azurestack | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-azurestack |
 | @azure/arm-botservice | 4.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-botservice |
