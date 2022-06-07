@@ -64,7 +64,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-healthcareapis | 2.1.1 | https://www.npmjs.com/package/@azure/arm-healthcareapis |
 | @azure/arm-hybridcompute | 3.0.0 | https://www.npmjs.com/package/@azure/arm-hybridcompute |
 | @azure/arm-hybridkubernetes | 2.0.1 | https://www.npmjs.com/package/@azure/arm-hybridkubernetes |
-| @azure/arm-imagebuilder | 1.0.2 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
+| @azure/arm-imagebuilder | 2.0.0 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
 | @azure/arm-iotcentral | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iotcentral |
 | @azure/arm-iothub | 6.1.1 | https://www.npmjs.com/package/@azure/arm-iothub |
 | @azure/arm-iothub-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-iothub-profile-2020-09-01-hybrid |
