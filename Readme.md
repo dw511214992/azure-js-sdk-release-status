@@ -25,7 +25,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-cognitiveservices | 7.1.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
 | @azure/arm-commerce-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-commerce-profile-2020-09-01-hybrid |
 | @azure/arm-communication | 3.0.1 | https://www.npmjs.com/package/@azure/arm-communication |
-| @azure/arm-compute | 18.0.0 | https://www.npmjs.com/package/@azure/arm-compute |
+| @azure/arm-compute | 19.0.0 | https://www.npmjs.com/package/@azure/arm-compute |
 | @azure/arm-compute-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2020-09-01-hybrid |
 | @azure/arm-confidentialledger | 1.0.0 | https://www.npmjs.com/package/@azure/arm-confidentialledger |
 | @azure/arm-consumption | 9.0.1 | https://www.npmjs.com/package/@azure/arm-consumption |
@@ -39,7 +39,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-databoxedge-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge-profile-2020-09-01-hybrid |
 | @azure/arm-datacatalog | 4.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datadog | 3.0.1 | https://www.npmjs.com/package/@azure/arm-datadog |
-| @azure/arm-datafactory | 10.5.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
+| @azure/arm-datafactory | 10.6.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-desktopvirtualization | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
 | @azure/arm-deviceprovisioningservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
 | @azure/arm-deviceupdate | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-deviceupdate |
