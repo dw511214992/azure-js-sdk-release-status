@@ -8,6 +8,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-analysisservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.0.1 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-app | 1.0.0-alpha.20220330.1 | https://www.npmjs.com/package/@azure/arm-app |
+| @azure/arm-appconfiguration | 3.0.0 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
 | @azure/arm-appcontainers | 1.0.0 | https://www.npmjs.com/package/@azure/arm-appcontainers |
 | @azure/arm-appplatform | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-appservice | 12.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
@@ -66,7 +67,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-hybridkubernetes | 2.0.1 | https://www.npmjs.com/package/@azure/arm-hybridkubernetes |
 | @azure/arm-imagebuilder | 2.0.0 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
 | @azure/arm-iotcentral | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iotcentral |
-| @azure/arm-iothub | 6.1.1 | https://www.npmjs.com/package/@azure/arm-iothub |
+| @azure/arm-iothub | 6.1.2 | https://www.npmjs.com/package/@azure/arm-iothub |
 | @azure/arm-iothub-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-iothub-profile-2020-09-01-hybrid |
 | @azure/arm-keyvault | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault |
 | @azure/arm-keyvault-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2020-09-01-hybrid |
@@ -96,7 +97,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-msi | 2.0.0 | https://www.npmjs.com/package/@azure/arm-msi |
 | @azure/arm-mysql | 5.0.1 | https://www.npmjs.com/package/@azure/arm-mysql |
 | @azure/arm-mysql-flexible | 3.0.0 | https://www.npmjs.com/package/@azure/arm-mysql-flexible |
-| @azure/arm-netapp | 15.1.1 | https://www.npmjs.com/package/@azure/arm-netapp |
+| @azure/arm-netapp | 16.0.0 | https://www.npmjs.com/package/@azure/arm-netapp |
 | @azure/arm-network | 28.0.0 | https://www.npmjs.com/package/@azure/arm-network |
 | @azure/arm-network-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
 | @azure/arm-notificationhubs | 2.0.1 | https://www.npmjs.com/package/@azure/arm-notificationhubs |
@@ -159,7 +160,6 @@ All data comes from NPM, and it is refreshed every day.
 ## Packages that Preview Release in Track2
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
-| @azure/arm-appconfiguration | 3.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
 | @azure/arm-appinsights | 5.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-appinsights |
 | @azure/arm-authorization | 9.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-authorization |
 | @azure/arm-azurestack | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-azurestack |
@@ -180,7 +180,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-resourcegraph | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-resourcegraph |
 | @azure/arm-servicemap | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-servicemap |
 | @azure/arm-servicefabricmesh | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-servicefabricmesh |
-| @azure/arm-sqlvirtualmachine | 5.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-sqlvirtualmachine |
+| @azure/arm-sqlvirtualmachine | 5.0.0-beta.5 | https://www.npmjs.com/package/@azure/arm-sqlvirtualmachine |
 | @azure/arm-visualstudio | 4.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-visualstudio |
 
 ## Packages that still Release in Track1
@@ -209,6 +209,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-advisor | 2.1.1 | https://www.npmjs.com/package/@azure/arm-advisor |
 | @azure/arm-analysisservices | 3.0.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 7.2.0 | https://www.npmjs.com/package/@azure/arm-apimanagement |
+| @azure/arm-appconfiguration | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
 | @azure/arm-appplatform | 1.4.0 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-appservice | 9.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
 | @azure/arm-appservice-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
