@@ -138,7 +138,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-servicelinker | 2.0.0 | https://www.npmjs.com/package/@azure/arm-servicelinker |
 | @azure/arm-signalr | 5.1.0 | https://www.npmjs.com/package/@azure/arm-signalr |
 | @azure/arm-sql | 9.0.1 | https://www.npmjs.com/package/@azure/arm-sql |
-| @azure/arm-storage | 17.2.0 | https://www.npmjs.com/package/@azure/arm-storage |
+| @azure/arm-storage | 17.2.1 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-storage-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storage-profile-2020-09-01-hybrid |
 | @azure/arm-storagecache | 5.1.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
 | @azure/arm-storageimportexport | 2.0.1 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
@@ -179,7 +179,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-operations | 4.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-operations |
 | @azure/arm-resourcegraph | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-resourcegraph |
 | @azure/arm-servicemap | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-servicemap |
-| @azure/arm-servicefabricmesh | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-servicefabricmesh |
+| @azure/arm-servicefabricmesh | 3.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-servicefabricmesh |
 | @azure/arm-sqlvirtualmachine | 5.0.0-beta.5 | https://www.npmjs.com/package/@azure/arm-sqlvirtualmachine |
 | @azure/arm-visualstudio | 4.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-visualstudio |
 
