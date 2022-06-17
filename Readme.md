@@ -72,7 +72,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-keyvault | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault |
 | @azure/arm-keyvault-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2020-09-01-hybrid |
 | @azure/arm-kubernetesconfiguration | 5.0.0 | https://www.npmjs.com/package/@azure/arm-kubernetesconfiguration |
-| @azure/arm-kusto | 7.1.1 | https://www.npmjs.com/package/@azure/arm-kusto |
+| @azure/arm-kusto | 7.1.2 | https://www.npmjs.com/package/@azure/arm-kusto |
 | @azure/arm-links | 2.0.1 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-loadtestservice | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-loadtestservice |
 | @azure/arm-locks | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks |
