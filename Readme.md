@@ -172,10 +172,10 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-datamigration | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-datamigration |
 | @azure/arm-deploymentmanager | 4.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-deploymentmanager |
 | @azure/arm-hanaonazure | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-hanaonazure |
-| @azure/arm-labservices | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-labservices |
+| @azure/arm-labservices | 3.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-labservices |
 | @azure/arm-commitmentplans | 2.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-commitmentplans |
 | @azure/arm-machinelearningcompute | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-machinelearningcompute |
-| @azure/arm-machinelearningexperimentation | 2.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-machinelearningexperimentation |
+| @azure/arm-machinelearningexperimentation | 2.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-machinelearningexperimentation |
 | @azure/arm-operations | 4.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-operations |
 | @azure/arm-resourcegraph | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-resourcegraph |
 | @azure/arm-servicemap | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-servicemap |
