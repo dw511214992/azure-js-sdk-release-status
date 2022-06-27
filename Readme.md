@@ -26,7 +26,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-cognitiveservices | 7.2.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
 | @azure/arm-commerce-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-commerce-profile-2020-09-01-hybrid |
 | @azure/arm-communication | 3.0.1 | https://www.npmjs.com/package/@azure/arm-communication |
-| @azure/arm-compute | 19.0.0 | https://www.npmjs.com/package/@azure/arm-compute |
+| @azure/arm-compute | 19.1.0 | https://www.npmjs.com/package/@azure/arm-compute |
 | @azure/arm-compute-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2020-09-01-hybrid |
 | @azure/arm-confidentialledger | 1.0.0 | https://www.npmjs.com/package/@azure/arm-confidentialledger |
 | @azure/arm-consumption | 9.0.1 | https://www.npmjs.com/package/@azure/arm-consumption |
@@ -88,7 +88,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-maps | 3.0.0 | https://www.npmjs.com/package/@azure/arm-maps |
 | @azure/arm-mariadb | 2.0.1 | https://www.npmjs.com/package/@azure/arm-mariadb |
 | @azure/arm-marketplaceordering | 3.0.1 | https://www.npmjs.com/package/@azure/arm-marketplaceordering |
-| @azure/arm-mediaservices | 11.0.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
+| @azure/arm-mediaservices | 12.0.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
 | @azure/arm-migrate | 2.0.1 | https://www.npmjs.com/package/@azure/arm-migrate |
 | @azure/arm-mixedreality | 4.0.1 | https://www.npmjs.com/package/@azure/arm-mixedreality |
 | @azure/arm-mobilenetwork | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-mobilenetwork |
