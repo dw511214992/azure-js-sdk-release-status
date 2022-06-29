@@ -5,7 +5,7 @@ All data comes from NPM, and it is refreshed every day.
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
 | @azure/arm-advisor | 3.0.1 | https://www.npmjs.com/package/@azure/arm-advisor |
-| @azure/arm-analysisservices | 4.0.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
+| @azure/arm-analysisservices | 4.1.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.0.1 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-app | 1.0.0-alpha.20220330.1 | https://www.npmjs.com/package/@azure/arm-app |
 | @azure/arm-appconfiguration | 3.0.0 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
