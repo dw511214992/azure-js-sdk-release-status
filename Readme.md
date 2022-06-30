@@ -123,6 +123,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-redisenterprisecache | 2.1.0 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
 | @azure/arm-relay | 3.0.1 | https://www.npmjs.com/package/@azure/arm-relay |
 | @azure/arm-reservations | 7.1.0 | https://www.npmjs.com/package/@azure/arm-reservations |
+| @azure/arm-resourceconnector | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-resourceconnector |
 | @azure/arm-resourcehealth | 3.0.1 | https://www.npmjs.com/package/@azure/arm-resourcehealth |
 | @azure/arm-resourcemover | 2.0.1 | https://www.npmjs.com/package/@azure/arm-resourcemover |
 | @azure/arm-resources | 5.0.1 | https://www.npmjs.com/package/@azure/arm-resources |
@@ -156,6 +157,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-videoanalyzer | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-videoanalyzer |
 | @azure/arm-vmwarecloudsimple | 3.0.0 | https://www.npmjs.com/package/@azure/arm-vmwarecloudsimple |
 | @azure/arm-webpubsub | 1.0.0 | https://www.npmjs.com/package/@azure/arm-webpubsub |
+| @azure/arm-workloads | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-workloads |
 
 ## Packages that Preview Release in Track2
 |  PackageName   | Version  | Url |
