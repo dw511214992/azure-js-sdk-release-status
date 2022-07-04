@@ -84,7 +84,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-machinelearningservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-machinelearningservices |
 | @azure/arm-managedapplications | 2.0.1 | https://www.npmjs.com/package/@azure/arm-managedapplications |
 | @azure/arm-managementgroups | 2.0.1 | https://www.npmjs.com/package/@azure/arm-managementgroups |
-| @azure/arm-managementpartner | 2.0.1 | https://www.npmjs.com/package/@azure/arm-managementpartner |
+| @azure/arm-managementpartner | 3.0.0 | https://www.npmjs.com/package/@azure/arm-managementpartner |
 | @azure/arm-maps | 3.0.0 | https://www.npmjs.com/package/@azure/arm-maps |
 | @azure/arm-mariadb | 2.0.1 | https://www.npmjs.com/package/@azure/arm-mariadb |
 | @azure/arm-marketplaceordering | 3.0.1 | https://www.npmjs.com/package/@azure/arm-marketplaceordering |
