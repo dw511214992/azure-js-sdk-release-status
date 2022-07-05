@@ -89,7 +89,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-mariadb | 2.0.1 | https://www.npmjs.com/package/@azure/arm-mariadb |
 | @azure/arm-marketplaceordering | 3.0.1 | https://www.npmjs.com/package/@azure/arm-marketplaceordering |
 | @azure/arm-mediaservices | 12.0.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
-| @azure/arm-migrate | 2.0.1 | https://www.npmjs.com/package/@azure/arm-migrate |
+| @azure/arm-migrate | 2.0.2 | https://www.npmjs.com/package/@azure/arm-migrate |
 | @azure/arm-mixedreality | 4.0.1 | https://www.npmjs.com/package/@azure/arm-mixedreality |
 | @azure/arm-mobilenetwork | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-mobilenetwork |
 | @azure/arm-monitor | 7.0.0 | https://www.npmjs.com/package/@azure/arm-monitor |
@@ -105,7 +105,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-operationalinsights | 8.0.1 | https://www.npmjs.com/package/@azure/arm-operationalinsights |
 | @azure/arm-orbital | 1.0.0 | https://www.npmjs.com/package/@azure/arm-orbital |
 | @azure/arm-peering | 2.0.1 | https://www.npmjs.com/package/@azure/arm-peering |
-| @azure/arm-policy | 5.0.1 | https://www.npmjs.com/package/@azure/arm-policy |
+| @azure/arm-policy | 5.0.2 | https://www.npmjs.com/package/@azure/arm-policy |
 | @azure/arm-policy-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-policy-profile-2020-09-01-hybrid |
 | @azure/arm-policyinsights | 5.0.0 | https://www.npmjs.com/package/@azure/arm-policyinsights |
 | @azure/arm-portal | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-portal |
@@ -142,7 +142,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-storage | 17.2.1 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-storage-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storage-profile-2020-09-01-hybrid |
 | @azure/arm-storagecache | 5.1.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
-| @azure/arm-storageimportexport | 2.0.1 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
+| @azure/arm-storageimportexport | 2.0.2 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
 | @azure/arm-storagesync | 9.0.1 | https://www.npmjs.com/package/@azure/arm-storagesync |
 | @azure/arm-storsimple1200series | 2.0.1 | https://www.npmjs.com/package/@azure/arm-storsimple1200series |
 | @azure/arm-storsimple8000series | 2.0.1 | https://www.npmjs.com/package/@azure/arm-storsimple8000series |
