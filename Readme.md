@@ -11,11 +11,11 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-appconfiguration | 3.0.0 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
 | @azure/arm-appcontainers | 1.0.0 | https://www.npmjs.com/package/@azure/arm-appcontainers |
 | @azure/arm-appplatform | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appplatform |
-| @azure/arm-appservice | 12.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
+| @azure/arm-appservice | 13.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
 | @azure/arm-appservice-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
 | @azure/arm-attestation | 2.0.0 | https://www.npmjs.com/package/@azure/arm-attestation |
 | @azure/arm-authorization-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2020-09-01-hybrid |
-| @azure/arm-avs | 3.0.0 | https://www.npmjs.com/package/@azure/arm-avs |
+| @azure/arm-avs | 3.1.0 | https://www.npmjs.com/package/@azure/arm-avs |
 | @azure/arm-azureadexternalidentities | 1.0.0 | https://www.npmjs.com/package/@azure/arm-azureadexternalidentities |
 | @azure/arm-azurestackhci | 3.0.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
 | @azure/arm-batch | 7.1.1 | https://www.npmjs.com/package/@azure/arm-batch |
@@ -28,7 +28,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-communication | 3.0.1 | https://www.npmjs.com/package/@azure/arm-communication |
 | @azure/arm-compute | 19.1.0 | https://www.npmjs.com/package/@azure/arm-compute |
 | @azure/arm-compute-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2020-09-01-hybrid |
-| @azure/arm-confidentialledger | 1.0.0 | https://www.npmjs.com/package/@azure/arm-confidentialledger |
+| @azure/arm-confidentialledger | 1.1.0 | https://www.npmjs.com/package/@azure/arm-confidentialledger |
 | @azure/arm-consumption | 9.0.1 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 8.1.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
@@ -52,7 +52,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-dnsresolver | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-dnsresolver |
 | @azure/arm-domainservices | 4.0.1 | https://www.npmjs.com/package/@azure/arm-domainservices |
 | @azure/arm-dynatrace | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-dynatrace |
-| @azure/arm-education | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-education |
+| @azure/arm-education | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-education |
 | @azure/arm-eventgrid | 14.0.0 | https://www.npmjs.com/package/@azure/arm-eventgrid |
 | @azure/arm-eventhub | 5.0.1 | https://www.npmjs.com/package/@azure/arm-eventhub |
 | @azure/arm-eventhub-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-eventhub-profile-2020-09-01-hybrid |
@@ -149,13 +149,13 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-streamanalytics | 4.0.1 | https://www.npmjs.com/package/@azure/arm-streamanalytics |
 | @azure/arm-subscriptions | 5.0.1 | https://www.npmjs.com/package/@azure/arm-subscriptions |
 | @azure/arm-subscriptions-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-subscriptions-profile-2020-09-01-hybrid |
-| @azure/arm-support | 2.0.1 | https://www.npmjs.com/package/@azure/arm-support |
+| @azure/arm-support | 2.0.2 | https://www.npmjs.com/package/@azure/arm-support |
 | @azure/arm-synapse | 8.0.0 | https://www.npmjs.com/package/@azure/arm-synapse |
 | @azure/arm-templatespecs | 2.0.1 | https://www.npmjs.com/package/@azure/arm-templatespecs |
 | @azure/arm-timeseriesinsights | 2.0.0 | https://www.npmjs.com/package/@azure/arm-timeseriesinsights |
 | @azure/arm-trafficmanager | 6.0.1 | https://www.npmjs.com/package/@azure/arm-trafficmanager |
 | @azure/arm-videoanalyzer | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-videoanalyzer |
-| @azure/arm-vmwarecloudsimple | 3.0.0 | https://www.npmjs.com/package/@azure/arm-vmwarecloudsimple |
+| @azure/arm-vmwarecloudsimple | 3.0.1 | https://www.npmjs.com/package/@azure/arm-vmwarecloudsimple |
 | @azure/arm-webpubsub | 1.0.0 | https://www.npmjs.com/package/@azure/arm-webpubsub |
 | @azure/arm-workloads | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-workloads |
 
