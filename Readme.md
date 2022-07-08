@@ -87,7 +87,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-managementpartner | 3.0.0 | https://www.npmjs.com/package/@azure/arm-managementpartner |
 | @azure/arm-maps | 3.0.0 | https://www.npmjs.com/package/@azure/arm-maps |
 | @azure/arm-mariadb | 2.0.1 | https://www.npmjs.com/package/@azure/arm-mariadb |
-| @azure/arm-marketplaceordering | 3.0.1 | https://www.npmjs.com/package/@azure/arm-marketplaceordering |
+| @azure/arm-marketplaceordering | 3.1.0 | https://www.npmjs.com/package/@azure/arm-marketplaceordering |
 | @azure/arm-mediaservices | 12.0.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
 | @azure/arm-migrate | 2.0.2 | https://www.npmjs.com/package/@azure/arm-migrate |
 | @azure/arm-mixedreality | 4.0.1 | https://www.npmjs.com/package/@azure/arm-mixedreality |
@@ -111,7 +111,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-portal | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-portal |
 | @azure/arm-postgresql | 6.0.1 | https://www.npmjs.com/package/@azure/arm-postgresql |
 | @azure/arm-postgresql-flexible | 6.0.0 | https://www.npmjs.com/package/@azure/arm-postgresql-flexible |
-| @azure/arm-powerbidedicated | 3.0.1 | https://www.npmjs.com/package/@azure/arm-powerbidedicated |
+| @azure/arm-powerbidedicated | 4.0.0 | https://www.npmjs.com/package/@azure/arm-powerbidedicated |
 | @azure/arm-powerbiembedded | 2.0.1 | https://www.npmjs.com/package/@azure/arm-powerbiembedded |
 | @azure/arm-privatedns | 3.0.1 | https://www.npmjs.com/package/@azure/arm-privatedns |
 | @azure/arm-purview | 1.0.1 | https://www.npmjs.com/package/@azure/arm-purview |
@@ -121,7 +121,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-recoveryservices-siterecovery | 4.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices-siterecovery |
 | @azure/arm-rediscache | 6.1.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
 | @azure/arm-redisenterprisecache | 2.1.0 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
-| @azure/arm-relay | 3.0.1 | https://www.npmjs.com/package/@azure/arm-relay |
+| @azure/arm-relay | 3.1.0 | https://www.npmjs.com/package/@azure/arm-relay |
 | @azure/arm-reservations | 7.1.0 | https://www.npmjs.com/package/@azure/arm-reservations |
 | @azure/arm-resourceconnector | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-resourceconnector |
 | @azure/arm-resourcehealth | 3.0.1 | https://www.npmjs.com/package/@azure/arm-resourcehealth |
