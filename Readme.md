@@ -30,7 +30,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-compute-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2020-09-01-hybrid |
 | @azure/arm-confidentialledger | 1.1.0 | https://www.npmjs.com/package/@azure/arm-confidentialledger |
 | @azure/arm-consumption | 9.0.1 | https://www.npmjs.com/package/@azure/arm-consumption |
-| @azure/arm-containerinstance | 8.1.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
+| @azure/arm-containerinstance | 8.2.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
 | @azure/arm-containerservice | 16.1.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
 | @azure/arm-cosmosdb | 15.0.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
@@ -51,7 +51,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-dns-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-dns-profile-2020-09-01-hybrid |
 | @azure/arm-dnsresolver | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-dnsresolver |
 | @azure/arm-domainservices | 4.0.1 | https://www.npmjs.com/package/@azure/arm-domainservices |
-| @azure/arm-dynatrace | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-dynatrace |
+| @azure/arm-dynatrace | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-dynatrace |
 | @azure/arm-education | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-education |
 | @azure/arm-eventgrid | 14.0.0 | https://www.npmjs.com/package/@azure/arm-eventgrid |
 | @azure/arm-eventhub | 5.0.1 | https://www.npmjs.com/package/@azure/arm-eventhub |
@@ -103,12 +103,12 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-notificationhubs | 2.0.1 | https://www.npmjs.com/package/@azure/arm-notificationhubs |
 | @azure/arm-oep | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-oep |
 | @azure/arm-operationalinsights | 8.0.1 | https://www.npmjs.com/package/@azure/arm-operationalinsights |
-| @azure/arm-orbital | 1.0.0 | https://www.npmjs.com/package/@azure/arm-orbital |
+| @azure/arm-orbital | 1.1.0 | https://www.npmjs.com/package/@azure/arm-orbital |
 | @azure/arm-peering | 2.0.1 | https://www.npmjs.com/package/@azure/arm-peering |
 | @azure/arm-policy | 5.0.2 | https://www.npmjs.com/package/@azure/arm-policy |
 | @azure/arm-policy-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-policy-profile-2020-09-01-hybrid |
 | @azure/arm-policyinsights | 5.0.0 | https://www.npmjs.com/package/@azure/arm-policyinsights |
-| @azure/arm-portal | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-portal |
+| @azure/arm-portal | 1.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-portal |
 | @azure/arm-postgresql | 6.0.1 | https://www.npmjs.com/package/@azure/arm-postgresql |
 | @azure/arm-postgresql-flexible | 6.0.0 | https://www.npmjs.com/package/@azure/arm-postgresql-flexible |
 | @azure/arm-powerbidedicated | 4.0.0 | https://www.npmjs.com/package/@azure/arm-powerbidedicated |
@@ -132,7 +132,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-scvmm | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-scvmm |
 | @azure/arm-search | 3.0.1 | https://www.npmjs.com/package/@azure/arm-search |
 | @azure/arm-security | 5.0.0 | https://www.npmjs.com/package/@azure/arm-security |
-| @azure/arm-securityinsight | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-securityinsight |
+| @azure/arm-securityinsight | 1.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-securityinsight |
 | @azure/arm-serialconsole | 2.0.1 | https://www.npmjs.com/package/@azure/arm-serialconsole |
 | @azure/arm-servicebus | 6.0.0 | https://www.npmjs.com/package/@azure/arm-servicebus |
 | @azure/arm-servicefabric | 2.0.1 | https://www.npmjs.com/package/@azure/arm-servicefabric |
