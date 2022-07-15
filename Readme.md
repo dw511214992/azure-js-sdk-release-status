@@ -43,7 +43,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-datafactory | 10.7.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-desktopvirtualization | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
 | @azure/arm-deviceprovisioningservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
-| @azure/arm-deviceupdate | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-deviceupdate |
+| @azure/arm-deviceupdate | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-deviceupdate |
 | @azure/arm-devspaces | 2.0.0 | https://www.npmjs.com/package/@azure/arm-devspaces |
 | @azure/arm-devtestlabs | 4.0.1 | https://www.npmjs.com/package/@azure/arm-devtestlabs |
 | @azure/arm-digitaltwins | 3.1.0 | https://www.npmjs.com/package/@azure/arm-digitaltwins |
@@ -78,7 +78,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-locks | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks |
 | @azure/arm-locks-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks-profile-2020-09-01-hybrid |
 | @azure/arm-logic | 8.0.0 | https://www.npmjs.com/package/@azure/arm-logic |
-| @azure/arm-machinelearning | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-machinelearning |
+| @azure/arm-machinelearning | 1.0.0 | https://www.npmjs.com/package/@azure/arm-machinelearning |
 | @azure/arm-webservices | 1.0.1 | https://www.npmjs.com/package/@azure/arm-webservices |
 | @azure/arm-workspaces | 1.0.1 | https://www.npmjs.com/package/@azure/arm-workspaces |
 | @azure/arm-machinelearningservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-machinelearningservices |
@@ -100,6 +100,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-netapp | 16.0.0 | https://www.npmjs.com/package/@azure/arm-netapp |
 | @azure/arm-network | 28.0.0 | https://www.npmjs.com/package/@azure/arm-network |
 | @azure/arm-network-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
+| @azure/arm-networkfunction | 1.0.0 | https://www.npmjs.com/package/@azure/arm-networkfunction |
 | @azure/arm-notificationhubs | 2.0.1 | https://www.npmjs.com/package/@azure/arm-notificationhubs |
 | @azure/arm-oep | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-oep |
 | @azure/arm-operationalinsights | 8.0.1 | https://www.npmjs.com/package/@azure/arm-operationalinsights |
@@ -124,12 +125,12 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-relay | 3.1.0 | https://www.npmjs.com/package/@azure/arm-relay |
 | @azure/arm-reservations | 7.1.0 | https://www.npmjs.com/package/@azure/arm-reservations |
 | @azure/arm-resourceconnector | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-resourceconnector |
-| @azure/arm-resourcehealth | 3.0.1 | https://www.npmjs.com/package/@azure/arm-resourcehealth |
+| @azure/arm-resourcehealth | 3.1.0 | https://www.npmjs.com/package/@azure/arm-resourcehealth |
 | @azure/arm-resourcemover | 2.0.1 | https://www.npmjs.com/package/@azure/arm-resourcemover |
 | @azure/arm-resources | 5.0.1 | https://www.npmjs.com/package/@azure/arm-resources |
 | @azure/arm-resources-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resources-profile-2020-09-01-hybrid |
 | @azure/arm-resources-subscriptions | 2.0.1 | https://www.npmjs.com/package/@azure/arm-resources-subscriptions |
-| @azure/arm-scvmm | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-scvmm |
+| @azure/arm-scvmm | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-scvmm |
 | @azure/arm-search | 3.0.1 | https://www.npmjs.com/package/@azure/arm-search |
 | @azure/arm-security | 5.0.0 | https://www.npmjs.com/package/@azure/arm-security |
 | @azure/arm-securityinsight | 1.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-securityinsight |
