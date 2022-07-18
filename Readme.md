@@ -142,7 +142,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-sql | 9.0.1 | https://www.npmjs.com/package/@azure/arm-sql |
 | @azure/arm-storage | 17.2.1 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-storage-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storage-profile-2020-09-01-hybrid |
-| @azure/arm-storagecache | 5.1.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
+| @azure/arm-storagecache | 5.2.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
 | @azure/arm-storageimportexport | 2.0.2 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
 | @azure/arm-storagesync | 9.0.1 | https://www.npmjs.com/package/@azure/arm-storagesync |
 | @azure/arm-storsimple1200series | 2.0.1 | https://www.npmjs.com/package/@azure/arm-storsimple1200series |
