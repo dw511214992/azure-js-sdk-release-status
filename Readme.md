@@ -158,7 +158,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-videoanalyzer | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-videoanalyzer |
 | @azure/arm-vmwarecloudsimple | 3.0.1 | https://www.npmjs.com/package/@azure/arm-vmwarecloudsimple |
 | @azure/arm-webpubsub | 1.0.0 | https://www.npmjs.com/package/@azure/arm-webpubsub |
-| @azure/arm-workloads | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-workloads |
+| @azure/arm-workloads | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-workloads |
 
 ## Packages that Preview Release in Track2
 |  PackageName   | Version  | Url |
