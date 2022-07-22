@@ -18,7 +18,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-avs | 3.1.0 | https://www.npmjs.com/package/@azure/arm-avs |
 | @azure/arm-azureadexternalidentities | 1.0.0 | https://www.npmjs.com/package/@azure/arm-azureadexternalidentities |
 | @azure/arm-azurestackhci | 3.0.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
-| @azure/arm-batch | 7.1.1 | https://www.npmjs.com/package/@azure/arm-batch |
+| @azure/arm-batch | 7.2.0 | https://www.npmjs.com/package/@azure/arm-batch |
 | @azure/arm-billing | 4.0.1 | https://www.npmjs.com/package/@azure/arm-billing |
 | @azure/arm-cdn | 7.0.1 | https://www.npmjs.com/package/@azure/arm-cdn |
 | @azure/arm-changeanalysis | 2.0.1 | https://www.npmjs.com/package/@azure/arm-changeanalysis |
@@ -33,7 +33,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-containerinstance | 8.2.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
 | @azure/arm-containerservice | 16.1.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
-| @azure/arm-cosmosdb | 15.0.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
+| @azure/arm-cosmosdb | 15.1.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 4.0.1 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-dashboard | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-dashboard |
 | @azure/arm-databoxedge | 2.0.1 | https://www.npmjs.com/package/@azure/arm-databoxedge |
@@ -56,8 +56,9 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-eventgrid | 14.0.0 | https://www.npmjs.com/package/@azure/arm-eventgrid |
 | @azure/arm-eventhub | 5.0.1 | https://www.npmjs.com/package/@azure/arm-eventhub |
 | @azure/arm-eventhub-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-eventhub-profile-2020-09-01-hybrid |
-| @azure/arm-extendedlocation | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-extendedlocation |
+| @azure/arm-extendedlocation | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-extendedlocation |
 | @azure/arm-features | 3.0.1 | https://www.npmjs.com/package/@azure/arm-features |
+| @azure/arm-fluidrelay | 1.0.0 | https://www.npmjs.com/package/@azure/arm-fluidrelay |
 | @azure/arm-frontdoor | 5.0.1 | https://www.npmjs.com/package/@azure/arm-frontdoor |
 | @azure/arm-hardwaresecuritymodules | 1.0.0 | https://www.npmjs.com/package/@azure/arm-hardwaresecuritymodules |
 | @azure/arm-hdinsight | 1.1.1 | https://www.npmjs.com/package/@azure/arm-hdinsight |
@@ -97,7 +98,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-msi | 2.0.0 | https://www.npmjs.com/package/@azure/arm-msi |
 | @azure/arm-mysql | 5.0.1 | https://www.npmjs.com/package/@azure/arm-mysql |
 | @azure/arm-mysql-flexible | 3.0.0 | https://www.npmjs.com/package/@azure/arm-mysql-flexible |
-| @azure/arm-netapp | 16.0.0 | https://www.npmjs.com/package/@azure/arm-netapp |
+| @azure/arm-netapp | 16.1.0 | https://www.npmjs.com/package/@azure/arm-netapp |
 | @azure/arm-network | 28.0.0 | https://www.npmjs.com/package/@azure/arm-network |
 | @azure/arm-network-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
 | @azure/arm-networkfunction | 1.0.0 | https://www.npmjs.com/package/@azure/arm-networkfunction |
