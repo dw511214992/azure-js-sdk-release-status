@@ -32,7 +32,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-consumption | 9.0.1 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 8.2.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
-| @azure/arm-containerservice | 16.1.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
+| @azure/arm-containerservice | 17.0.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
 | @azure/arm-cosmosdb | 15.1.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 4.0.1 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-dashboard | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-dashboard |
@@ -118,7 +118,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-privatedns | 3.0.1 | https://www.npmjs.com/package/@azure/arm-privatedns |
 | @azure/arm-purview | 1.0.1 | https://www.npmjs.com/package/@azure/arm-purview |
 | @azure/arm-quota | 1.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-quota |
-| @azure/arm-recoveryservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-recoveryservices |
+| @azure/arm-recoveryservices | 5.1.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices |
 | @azure/arm-recoveryservicesbackup | 9.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservicesbackup |
 | @azure/arm-recoveryservices-siterecovery | 4.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices-siterecovery |
 | @azure/arm-rediscache | 6.1.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
