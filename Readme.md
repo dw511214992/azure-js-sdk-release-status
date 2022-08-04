@@ -15,6 +15,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-appservice-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
 | @azure/arm-attestation | 2.0.0 | https://www.npmjs.com/package/@azure/arm-attestation |
 | @azure/arm-authorization-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2020-09-01-hybrid |
+| @azure/arm-automanage | 1.0.0-alpha.20220804.1 | https://www.npmjs.com/package/@azure/arm-automanage |
 | @azure/arm-avs | 3.1.0 | https://www.npmjs.com/package/@azure/arm-avs |
 | @azure/arm-azureadexternalidentities | 1.0.0 | https://www.npmjs.com/package/@azure/arm-azureadexternalidentities |
 | @azure/arm-azurestackhci | 3.0.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
@@ -61,7 +62,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-fluidrelay | 1.0.0 | https://www.npmjs.com/package/@azure/arm-fluidrelay |
 | @azure/arm-frontdoor | 5.0.1 | https://www.npmjs.com/package/@azure/arm-frontdoor |
 | @azure/arm-hardwaresecuritymodules | 1.0.0 | https://www.npmjs.com/package/@azure/arm-hardwaresecuritymodules |
-| @azure/arm-hdinsight | 1.1.1 | https://www.npmjs.com/package/@azure/arm-hdinsight |
+| @azure/arm-hdinsight | 1.2.0 | https://www.npmjs.com/package/@azure/arm-hdinsight |
 | @azure/arm-healthbot | 2.0.0 | https://www.npmjs.com/package/@azure/arm-healthbot |
 | @azure/arm-healthcareapis | 2.1.1 | https://www.npmjs.com/package/@azure/arm-healthcareapis |
 | @azure/arm-hybridcompute | 3.0.0 | https://www.npmjs.com/package/@azure/arm-hybridcompute |
