@@ -15,7 +15,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-appservice-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
 | @azure/arm-attestation | 2.0.0 | https://www.npmjs.com/package/@azure/arm-attestation |
 | @azure/arm-authorization-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2020-09-01-hybrid |
-| @azure/arm-automanage | 1.0.0-alpha.20220804.1 | https://www.npmjs.com/package/@azure/arm-automanage |
+| @azure/arm-automanage | 1.0.0 | https://www.npmjs.com/package/@azure/arm-automanage |
 | @azure/arm-avs | 3.1.0 | https://www.npmjs.com/package/@azure/arm-avs |
 | @azure/arm-azureadexternalidentities | 1.0.0 | https://www.npmjs.com/package/@azure/arm-azureadexternalidentities |
 | @azure/arm-azurestackhci | 3.0.0 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
@@ -90,7 +90,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-maps | 3.0.0 | https://www.npmjs.com/package/@azure/arm-maps |
 | @azure/arm-mariadb | 2.0.1 | https://www.npmjs.com/package/@azure/arm-mariadb |
 | @azure/arm-marketplaceordering | 3.1.0 | https://www.npmjs.com/package/@azure/arm-marketplaceordering |
-| @azure/arm-mediaservices | 12.0.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
+| @azure/arm-mediaservices | 12.1.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
 | @azure/arm-migrate | 2.0.2 | https://www.npmjs.com/package/@azure/arm-migrate |
 | @azure/arm-mixedreality | 4.0.1 | https://www.npmjs.com/package/@azure/arm-mixedreality |
 | @azure/arm-mobilenetwork | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-mobilenetwork |
@@ -100,7 +100,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-mysql | 5.0.1 | https://www.npmjs.com/package/@azure/arm-mysql |
 | @azure/arm-mysql-flexible | 3.0.0 | https://www.npmjs.com/package/@azure/arm-mysql-flexible |
 | @azure/arm-netapp | 16.1.0 | https://www.npmjs.com/package/@azure/arm-netapp |
-| @azure/arm-network | 28.0.0 | https://www.npmjs.com/package/@azure/arm-network |
+| @azure/arm-network | 29.0.0 | https://www.npmjs.com/package/@azure/arm-network |
 | @azure/arm-network-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
 | @azure/arm-networkfunction | 1.0.0 | https://www.npmjs.com/package/@azure/arm-networkfunction |
 | @azure/arm-notificationhubs | 2.0.1 | https://www.npmjs.com/package/@azure/arm-notificationhubs |
