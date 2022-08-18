@@ -36,13 +36,14 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-containerservice | 17.0.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
 | @azure/arm-cosmosdb | 15.1.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 4.0.1 | https://www.npmjs.com/package/@azure/arm-customerinsights |
-| @azure/arm-dashboard | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-dashboard |
+| @azure/arm-dashboard | 1.0.0 | https://www.npmjs.com/package/@azure/arm-dashboard |
 | @azure/arm-databoxedge | 2.0.1 | https://www.npmjs.com/package/@azure/arm-databoxedge |
 | @azure/arm-databoxedge-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-databoxedge-profile-2020-09-01-hybrid |
 | @azure/arm-datacatalog | 4.0.0 | https://www.npmjs.com/package/@azure/arm-datacatalog |
 | @azure/arm-datadog | 3.0.1 | https://www.npmjs.com/package/@azure/arm-datadog |
 | @azure/arm-datafactory | 10.7.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-desktopvirtualization | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
+| @azure/arm-devcenter | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-devcenter |
 | @azure/arm-deviceprovisioningservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
 | @azure/arm-deviceupdate | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-deviceupdate |
 | @azure/arm-devspaces | 2.0.0 | https://www.npmjs.com/package/@azure/arm-devspaces |
@@ -167,6 +168,7 @@ All data comes from NPM, and it is refreshed every day.
 |  :----:  | :----:  | :----: |
 | @azure/arm-appinsights | 5.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-appinsights |
 | @azure/arm-authorization | 9.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-authorization |
+| @azure/arm-automation | 11.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-automation |
 | @azure/arm-azurestack | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-azurestack |
 | @azure/arm-botservice | 4.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-botservice |
 | @azure/arm-commerce | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-commerce |
@@ -193,7 +195,6 @@ All data comes from NPM, and it is refreshed every day.
 |  :----:  | :----:  | :----: |
 | @azure/arm-appservice-profile-2019-03-01-hybrid | 1.2.0 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2019-03-01-hybrid |
 | @azure/arm-authorization-profile-2019-03-01-hybrid | 1.2.0 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2019-03-01-hybrid |
-| @azure/arm-automation | 10.1.1 | https://www.npmjs.com/package/@azure/arm-automation |
 | @azure/arm-batchai | 2.2.1 | https://www.npmjs.com/package/@azure/arm-batchai |
 | @azure/arm-compute-profile-2019-03-01-hybrid | 1.2.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2019-03-01-hybrid |
 | @azure/arm-dns-profile-2019-03-01-hybrid | 1.2.0 | https://www.npmjs.com/package/@azure/arm-dns-profile-2019-03-01-hybrid |
