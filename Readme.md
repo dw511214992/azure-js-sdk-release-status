@@ -30,6 +30,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-compute | 19.1.0 | https://www.npmjs.com/package/@azure/arm-compute |
 | @azure/arm-compute-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2020-09-01-hybrid |
 | @azure/arm-confidentialledger | 1.1.0 | https://www.npmjs.com/package/@azure/arm-confidentialledger |
+| @azure/arm-connectedvmware | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-connectedvmware |
 | @azure/arm-consumption | 9.0.1 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 8.2.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
@@ -143,7 +144,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-servicelinker | 2.0.0 | https://www.npmjs.com/package/@azure/arm-servicelinker |
 | @azure/arm-signalr | 5.1.0 | https://www.npmjs.com/package/@azure/arm-signalr |
 | @azure/arm-sql | 9.0.1 | https://www.npmjs.com/package/@azure/arm-sql |
-| @azure/arm-storage | 17.2.1 | https://www.npmjs.com/package/@azure/arm-storage |
+| @azure/arm-storage | 18.0.0 | https://www.npmjs.com/package/@azure/arm-storage |
 | @azure/arm-storage-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-storage-profile-2020-09-01-hybrid |
 | @azure/arm-storagecache | 5.2.0 | https://www.npmjs.com/package/@azure/arm-storagecache |
 | @azure/arm-storageimportexport | 2.0.2 | https://www.npmjs.com/package/@azure/arm-storageimportexport |
