@@ -9,7 +9,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-apimanagement | 8.0.1 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-app | 1.0.0-alpha.20220330.1 | https://www.npmjs.com/package/@azure/arm-app |
 | @azure/arm-appconfiguration | 3.0.0 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
-| @azure/arm-appcontainers | 1.0.0 | https://www.npmjs.com/package/@azure/arm-appcontainers |
+| @azure/arm-appcontainers | 1.1.0 | https://www.npmjs.com/package/@azure/arm-appcontainers |
 | @azure/arm-appplatform | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appplatform |
 | @azure/arm-appservice | 13.0.0 | https://www.npmjs.com/package/@azure/arm-appservice |
 | @azure/arm-appservice-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appservice-profile-2020-09-01-hybrid |
@@ -46,7 +46,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-desktopvirtualization | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
 | @azure/arm-devcenter | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-devcenter |
 | @azure/arm-deviceprovisioningservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
-| @azure/arm-deviceupdate | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-deviceupdate |
+| @azure/arm-deviceupdate | 1.0.0 | https://www.npmjs.com/package/@azure/arm-deviceupdate |
 | @azure/arm-devspaces | 2.0.0 | https://www.npmjs.com/package/@azure/arm-devspaces |
 | @azure/arm-devtestlabs | 4.0.1 | https://www.npmjs.com/package/@azure/arm-devtestlabs |
 | @azure/arm-digitaltwins | 3.1.0 | https://www.npmjs.com/package/@azure/arm-digitaltwins |
@@ -71,7 +71,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-hybridkubernetes | 2.0.1 | https://www.npmjs.com/package/@azure/arm-hybridkubernetes |
 | @azure/arm-imagebuilder | 2.0.0 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
 | @azure/arm-iotcentral | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iotcentral |
-| @azure/arm-iothub | 6.1.2 | https://www.npmjs.com/package/@azure/arm-iothub |
+| @azure/arm-iothub | 6.2.0 | https://www.npmjs.com/package/@azure/arm-iothub |
 | @azure/arm-iothub-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-iothub-profile-2020-09-01-hybrid |
 | @azure/arm-keyvault | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault |
 | @azure/arm-keyvault-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2020-09-01-hybrid |
@@ -82,7 +82,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-locks | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks |
 | @azure/arm-locks-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks-profile-2020-09-01-hybrid |
 | @azure/arm-logic | 8.0.0 | https://www.npmjs.com/package/@azure/arm-logic |
-| @azure/arm-machinelearning | 1.0.0 | https://www.npmjs.com/package/@azure/arm-machinelearning |
+| @azure/arm-machinelearning | 2.0.0 | https://www.npmjs.com/package/@azure/arm-machinelearning |
 | @azure/arm-webservices | 1.0.1 | https://www.npmjs.com/package/@azure/arm-webservices |
 | @azure/arm-workspaces | 1.0.1 | https://www.npmjs.com/package/@azure/arm-workspaces |
 | @azure/arm-machinelearningservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-machinelearningservices |
