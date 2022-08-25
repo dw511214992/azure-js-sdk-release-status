@@ -105,6 +105,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-network | 29.0.0 | https://www.npmjs.com/package/@azure/arm-network |
 | @azure/arm-network-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
 | @azure/arm-networkfunction | 1.0.0 | https://www.npmjs.com/package/@azure/arm-networkfunction |
+| @azure/arm-nginx | 1.0.0 | https://www.npmjs.com/package/@azure/arm-nginx |
 | @azure/arm-notificationhubs | 2.0.1 | https://www.npmjs.com/package/@azure/arm-notificationhubs |
 | @azure/arm-oep | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-oep |
 | @azure/arm-operationalinsights | 8.0.1 | https://www.npmjs.com/package/@azure/arm-operationalinsights |
