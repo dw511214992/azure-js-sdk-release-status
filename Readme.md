@@ -34,7 +34,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-consumption | 9.0.1 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 8.2.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
-| @azure/arm-containerservice | 17.0.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
+| @azure/arm-containerservice | 17.1.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
 | @azure/arm-cosmosdb | 15.1.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 4.0.1 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-dashboard | 1.0.0 | https://www.npmjs.com/package/@azure/arm-dashboard |
@@ -77,6 +77,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-keyvault-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2020-09-01-hybrid |
 | @azure/arm-kubernetesconfiguration | 5.0.0 | https://www.npmjs.com/package/@azure/arm-kubernetesconfiguration |
 | @azure/arm-kusto | 7.1.2 | https://www.npmjs.com/package/@azure/arm-kusto |
+| @azure/arm-labservices | 3.0.0 | https://www.npmjs.com/package/@azure/arm-labservices |
 | @azure/arm-links | 2.0.1 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-loadtestservice | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-loadtestservice |
 | @azure/arm-locks | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks |
@@ -181,7 +182,6 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-datamigration | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-datamigration |
 | @azure/arm-deploymentmanager | 4.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-deploymentmanager |
 | @azure/arm-hanaonazure | 4.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-hanaonazure |
-| @azure/arm-labservices | 3.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-labservices |
 | @azure/arm-commitmentplans | 2.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-commitmentplans |
 | @azure/arm-machinelearningcompute | 3.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-machinelearningcompute |
 | @azure/arm-machinelearningexperimentation | 2.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-machinelearningexperimentation |
@@ -269,6 +269,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-keyvault-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-keyvault-profile-2020-09-01-hybrid |
 | @azure/arm-kubernetesconfiguration | 4.0.0 | https://www.npmjs.com/package/@azure/arm-kubernetesconfiguration |
 | @azure/arm-kusto | 6.3.0 | https://www.npmjs.com/package/@azure/arm-kusto |
+| @azure/arm-labservices | 2.0.0 | https://www.npmjs.com/package/@azure/arm-labservices |
 | @azure/arm-links | 1.1.2 | https://www.npmjs.com/package/@azure/arm-links |
 | @azure/arm-locks | 1.2.2 | https://www.npmjs.com/package/@azure/arm-locks |
 | @azure/arm-locks-profile-2020-09-01-hybrid | 1.1.1 | https://www.npmjs.com/package/@azure/arm-locks-profile-2020-09-01-hybrid |
