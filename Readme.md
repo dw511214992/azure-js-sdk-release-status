@@ -32,7 +32,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-confidentialledger | 1.1.0 | https://www.npmjs.com/package/@azure/arm-confidentialledger |
 | @azure/arm-connectedvmware | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-connectedvmware |
 | @azure/arm-consumption | 9.0.1 | https://www.npmjs.com/package/@azure/arm-consumption |
-| @azure/arm-containerinstance | 8.2.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
+| @azure/arm-containerinstance | 9.0.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
 | @azure/arm-containerservice | 17.1.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
 | @azure/arm-cosmosdb | 15.1.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
