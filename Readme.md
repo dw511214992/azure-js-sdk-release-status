@@ -5,7 +5,7 @@ All data comes from NPM, and it is refreshed every day.
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
 | @azure/arm-advisor | 3.0.1 | https://www.npmjs.com/package/@azure/arm-advisor |
-| @azure/arm-agrifood | 1.0.0-alpha.20220902.2 | https://www.npmjs.com/package/@azure/arm-agrifood |
+| @azure/arm-agrifood | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-agrifood |
 | @azure/arm-analysisservices | 4.1.0 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.0.1 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-app | 1.0.0-alpha.20220330.1 | https://www.npmjs.com/package/@azure/arm-app |
@@ -127,7 +127,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-recoveryservices | 5.1.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices |
 | @azure/arm-recoveryservicesbackup | 9.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservicesbackup |
 | @azure/arm-recoveryservices-siterecovery | 4.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices-siterecovery |
-| @azure/arm-rediscache | 6.1.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
+| @azure/arm-rediscache | 7.0.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
 | @azure/arm-redisenterprisecache | 2.1.0 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
 | @azure/arm-relay | 3.1.0 | https://www.npmjs.com/package/@azure/arm-relay |
 | @azure/arm-reservations | 7.1.0 | https://www.npmjs.com/package/@azure/arm-reservations |
