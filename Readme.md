@@ -32,11 +32,11 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-compute-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2020-09-01-hybrid |
 | @azure/arm-confidentialledger | 1.1.0 | https://www.npmjs.com/package/@azure/arm-confidentialledger |
 | @azure/arm-connectedvmware | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-connectedvmware |
-| @azure/arm-consumption | 9.0.1 | https://www.npmjs.com/package/@azure/arm-consumption |
+| @azure/arm-consumption | 9.1.0 | https://www.npmjs.com/package/@azure/arm-consumption |
 | @azure/arm-containerinstance | 9.0.0 | https://www.npmjs.com/package/@azure/arm-containerinstance |
 | @azure/arm-containerregistry | 10.0.0 | https://www.npmjs.com/package/@azure/arm-containerregistry |
 | @azure/arm-containerservice | 17.1.0 | https://www.npmjs.com/package/@azure/arm-containerservice |
-| @azure/arm-cosmosdb | 15.1.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
+| @azure/arm-cosmosdb | 15.2.0 | https://www.npmjs.com/package/@azure/arm-cosmosdb |
 | @azure/arm-customerinsights | 4.0.1 | https://www.npmjs.com/package/@azure/arm-customerinsights |
 | @azure/arm-dashboard | 1.0.0 | https://www.npmjs.com/package/@azure/arm-dashboard |
 | @azure/arm-databoxedge | 2.0.1 | https://www.npmjs.com/package/@azure/arm-databoxedge |
@@ -94,7 +94,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-maps | 3.0.0 | https://www.npmjs.com/package/@azure/arm-maps |
 | @azure/arm-mariadb | 2.0.1 | https://www.npmjs.com/package/@azure/arm-mariadb |
 | @azure/arm-marketplaceordering | 3.1.0 | https://www.npmjs.com/package/@azure/arm-marketplaceordering |
-| @azure/arm-mediaservices | 12.1.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
+| @azure/arm-mediaservices | 13.0.0 | https://www.npmjs.com/package/@azure/arm-mediaservices |
 | @azure/arm-migrate | 2.0.2 | https://www.npmjs.com/package/@azure/arm-migrate |
 | @azure/arm-mixedreality | 4.0.1 | https://www.npmjs.com/package/@azure/arm-mixedreality |
 | @azure/arm-mobilenetwork | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-mobilenetwork |
