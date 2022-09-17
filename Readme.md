@@ -54,7 +54,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-digitaltwins | 3.1.0 | https://www.npmjs.com/package/@azure/arm-digitaltwins |
 | @azure/arm-dns | 5.0.1 | https://www.npmjs.com/package/@azure/arm-dns |
 | @azure/arm-dns-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-dns-profile-2020-09-01-hybrid |
-| @azure/arm-dnsresolver | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-dnsresolver |
+| @azure/arm-dnsresolver | 1.0.0 | https://www.npmjs.com/package/@azure/arm-dnsresolver |
 | @azure/arm-domainservices | 4.0.1 | https://www.npmjs.com/package/@azure/arm-domainservices |
 | @azure/arm-dynatrace | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-dynatrace |
 | @azure/arm-education | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-education |
