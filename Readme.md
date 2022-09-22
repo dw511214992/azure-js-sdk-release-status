@@ -29,7 +29,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-cognitiveservices | 7.2.0 | https://www.npmjs.com/package/@azure/arm-cognitiveservices |
 | @azure/arm-commerce-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-commerce-profile-2020-09-01-hybrid |
 | @azure/arm-communication | 3.0.1 | https://www.npmjs.com/package/@azure/arm-communication |
-| @azure/arm-compute | 19.1.0 | https://www.npmjs.com/package/@azure/arm-compute |
+| @azure/arm-compute | 19.2.0 | https://www.npmjs.com/package/@azure/arm-compute |
 | @azure/arm-compute-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-compute-profile-2020-09-01-hybrid |
 | @azure/arm-confidentialledger | 1.1.0 | https://www.npmjs.com/package/@azure/arm-confidentialledger |
 | @azure/arm-connectedvmware | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-connectedvmware |
@@ -104,7 +104,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-msi | 2.0.0 | https://www.npmjs.com/package/@azure/arm-msi |
 | @azure/arm-mysql | 5.0.1 | https://www.npmjs.com/package/@azure/arm-mysql |
 | @azure/arm-mysql-flexible | 3.0.0 | https://www.npmjs.com/package/@azure/arm-mysql-flexible |
-| @azure/arm-netapp | 16.1.0 | https://www.npmjs.com/package/@azure/arm-netapp |
+| @azure/arm-netapp | 17.0.0 | https://www.npmjs.com/package/@azure/arm-netapp |
 | @azure/arm-network | 29.0.0 | https://www.npmjs.com/package/@azure/arm-network |
 | @azure/arm-network-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
 | @azure/arm-networkfunction | 1.0.0 | https://www.npmjs.com/package/@azure/arm-networkfunction |
@@ -131,7 +131,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-rediscache | 7.0.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
 | @azure/arm-redisenterprisecache | 2.1.0 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
 | @azure/arm-relay | 3.1.0 | https://www.npmjs.com/package/@azure/arm-relay |
-| @azure/arm-reservations | 7.1.0 | https://www.npmjs.com/package/@azure/arm-reservations |
+| @azure/arm-reservations | 7.2.0 | https://www.npmjs.com/package/@azure/arm-reservations |
 | @azure/arm-resourceconnector | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-resourceconnector |
 | @azure/arm-resourcehealth | 3.1.0 | https://www.npmjs.com/package/@azure/arm-resourcehealth |
 | @azure/arm-resourcemover | 2.0.1 | https://www.npmjs.com/package/@azure/arm-resourcemover |
