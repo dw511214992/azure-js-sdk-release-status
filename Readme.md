@@ -84,7 +84,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-loadtestservice | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-loadtestservice |
 | @azure/arm-locks | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks |
 | @azure/arm-locks-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-locks-profile-2020-09-01-hybrid |
-| @azure/arm-logic | 8.0.0 | https://www.npmjs.com/package/@azure/arm-logic |
+| @azure/arm-logic | 8.1.0 | https://www.npmjs.com/package/@azure/arm-logic |
 | @azure/arm-machinelearning | 2.0.0 | https://www.npmjs.com/package/@azure/arm-machinelearning |
 | @azure/arm-webservices | 1.0.1 | https://www.npmjs.com/package/@azure/arm-webservices |
 | @azure/arm-workspaces | 1.0.1 | https://www.npmjs.com/package/@azure/arm-workspaces |
@@ -191,7 +191,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-resourcegraph | 5.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-resourcegraph |
 | @azure/arm-servicemap | 3.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-servicemap |
 | @azure/arm-servicefabricmesh | 3.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-servicefabricmesh |
-| @azure/arm-sqlvirtualmachine | 5.0.0-beta.5 | https://www.npmjs.com/package/@azure/arm-sqlvirtualmachine |
+| @azure/arm-sqlvirtualmachine | 5.0.0-beta.6 | https://www.npmjs.com/package/@azure/arm-sqlvirtualmachine |
 | @azure/arm-visualstudio | 4.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-visualstudio |
 
 ## Packages that still Release in Track1
