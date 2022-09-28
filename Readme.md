@@ -141,7 +141,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-scvmm | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-scvmm |
 | @azure/arm-search | 3.0.1 | https://www.npmjs.com/package/@azure/arm-search |
 | @azure/arm-security | 5.0.0 | https://www.npmjs.com/package/@azure/arm-security |
-| @azure/arm-securityinsight | 1.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-securityinsight |
+| @azure/arm-securityinsight | 1.0.0-beta.5 | https://www.npmjs.com/package/@azure/arm-securityinsight |
 | @azure/arm-serialconsole | 2.0.1 | https://www.npmjs.com/package/@azure/arm-serialconsole |
 | @azure/arm-servicebus | 6.0.0 | https://www.npmjs.com/package/@azure/arm-servicebus |
 | @azure/arm-servicefabric | 2.0.1 | https://www.npmjs.com/package/@azure/arm-servicefabric |
