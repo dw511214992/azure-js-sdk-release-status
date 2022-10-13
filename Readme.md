@@ -46,7 +46,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-datadog | 3.0.1 | https://www.npmjs.com/package/@azure/arm-datadog |
 | @azure/arm-datafactory | 10.8.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-desktopvirtualization | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
-| @azure/arm-devcenter | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-devcenter |
+| @azure/arm-devcenter | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-devcenter |
 | @azure/arm-deviceprovisioningservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
 | @azure/arm-deviceupdate | 1.0.0 | https://www.npmjs.com/package/@azure/arm-deviceupdate |
 | @azure/arm-devspaces | 2.0.0 | https://www.npmjs.com/package/@azure/arm-devspaces |
@@ -141,6 +141,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-scvmm | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-scvmm |
 | @azure/arm-search | 3.0.1 | https://www.npmjs.com/package/@azure/arm-search |
 | @azure/arm-security | 5.0.0 | https://www.npmjs.com/package/@azure/arm-security |
+| @azure/arm-securitydevops | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-securitydevops |
 | @azure/arm-securityinsight | 1.0.0-beta.5 | https://www.npmjs.com/package/@azure/arm-securityinsight |
 | @azure/arm-serialconsole | 2.0.1 | https://www.npmjs.com/package/@azure/arm-serialconsole |
 | @azure/arm-servicebus | 6.0.0 | https://www.npmjs.com/package/@azure/arm-servicebus |
