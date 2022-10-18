@@ -47,6 +47,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-datafactory | 10.9.0 | https://www.npmjs.com/package/@azure/arm-datafactory |
 | @azure/arm-desktopvirtualization | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-desktopvirtualization |
 | @azure/arm-devcenter | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-devcenter |
+| @azure/arm-devhub | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-devhub |
 | @azure/arm-deviceprovisioningservices | 5.0.1 | https://www.npmjs.com/package/@azure/arm-deviceprovisioningservices |
 | @azure/arm-deviceupdate | 1.0.0 | https://www.npmjs.com/package/@azure/arm-deviceupdate |
 | @azure/arm-devspaces | 2.0.0 | https://www.npmjs.com/package/@azure/arm-devspaces |
