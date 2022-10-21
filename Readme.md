@@ -59,6 +59,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-domainservices | 4.0.1 | https://www.npmjs.com/package/@azure/arm-domainservices |
 | @azure/arm-dynatrace | 1.0.0 | https://www.npmjs.com/package/@azure/arm-dynatrace |
 | @azure/arm-education | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-education |
+| @azure/arm-elasticsan | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-elasticsan |
 | @azure/arm-eventgrid | 14.0.0 | https://www.npmjs.com/package/@azure/arm-eventgrid |
 | @azure/arm-eventhub | 5.0.1 | https://www.npmjs.com/package/@azure/arm-eventhub |
 | @azure/arm-eventhub-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-eventhub-profile-2020-09-01-hybrid |
