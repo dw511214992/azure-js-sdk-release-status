@@ -17,7 +17,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-attestation | 2.0.2 | https://www.npmjs.com/package/@azure/arm-attestation |
 | @azure/arm-authorization-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-authorization-profile-2020-09-01-hybrid |
 | @azure/arm-automanage | 1.0.2 | https://www.npmjs.com/package/@azure/arm-automanage |
-| @azure/arm-avs | 3.1.2 | https://www.npmjs.com/package/@azure/arm-avs |
+| @azure/arm-avs | 3.2.0 | https://www.npmjs.com/package/@azure/arm-avs |
 | @azure/arm-azureadexternalidentities | 1.0.2 | https://www.npmjs.com/package/@azure/arm-azureadexternalidentities |
 | @azure/arm-azurestackhci | 3.0.2 | https://www.npmjs.com/package/@azure/arm-azurestackhci |
 | @azure/arm-batch | 7.2.0 | https://www.npmjs.com/package/@azure/arm-batch |
@@ -110,7 +110,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-network | 30.0.0 | https://www.npmjs.com/package/@azure/arm-network |
 | @azure/arm-network-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-network-profile-2020-09-01-hybrid |
 | @azure/arm-networkfunction | 1.0.0 | https://www.npmjs.com/package/@azure/arm-networkfunction |
-| @azure/arm-nginx | 1.0.0 | https://www.npmjs.com/package/@azure/arm-nginx |
+| @azure/arm-nginx | 2.0.0 | https://www.npmjs.com/package/@azure/arm-nginx |
 | @azure/arm-notificationhubs | 2.0.1 | https://www.npmjs.com/package/@azure/arm-notificationhubs |
 | @azure/arm-oep | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-oep |
 | @azure/arm-operationalinsights | 8.0.1 | https://www.npmjs.com/package/@azure/arm-operationalinsights |
@@ -130,7 +130,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-recoveryservices | 5.1.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices |
 | @azure/arm-recoveryservicesbackup | 9.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservicesbackup |
 | @azure/arm-recoveryservices-siterecovery | 4.0.0 | https://www.npmjs.com/package/@azure/arm-recoveryservices-siterecovery |
-| @azure/arm-rediscache | 7.0.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
+| @azure/arm-rediscache | 7.1.0 | https://www.npmjs.com/package/@azure/arm-rediscache |
 | @azure/arm-redisenterprisecache | 2.1.0 | https://www.npmjs.com/package/@azure/arm-redisenterprisecache |
 | @azure/arm-relay | 3.1.0 | https://www.npmjs.com/package/@azure/arm-relay |
 | @azure/arm-reservations | 7.2.0 | https://www.npmjs.com/package/@azure/arm-reservations |
