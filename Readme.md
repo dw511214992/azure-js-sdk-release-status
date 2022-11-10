@@ -60,6 +60,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-domainservices | 4.0.1 | https://www.npmjs.com/package/@azure/arm-domainservices |
 | @azure/arm-dynatrace | 1.0.0 | https://www.npmjs.com/package/@azure/arm-dynatrace |
 | @azure/arm-education | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-education |
+| @azure/arm-elastic | 1.0.0-alpha.20221109.1 | https://www.npmjs.com/package/@azure/arm-elastic |
 | @azure/arm-elasticsan | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-elasticsan |
 | @azure/arm-eventgrid | 14.0.0 | https://www.npmjs.com/package/@azure/arm-eventgrid |
 | @azure/arm-eventhub | 5.0.1 | https://www.npmjs.com/package/@azure/arm-eventhub |
@@ -73,6 +74,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-healthbot | 2.0.0 | https://www.npmjs.com/package/@azure/arm-healthbot |
 | @azure/arm-healthcareapis | 2.1.1 | https://www.npmjs.com/package/@azure/arm-healthcareapis |
 | @azure/arm-hybridcompute | 3.0.0 | https://www.npmjs.com/package/@azure/arm-hybridcompute |
+| @azure/arm-hybridcontainerservice | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-hybridcontainerservice |
 | @azure/arm-hybridkubernetes | 2.0.1 | https://www.npmjs.com/package/@azure/arm-hybridkubernetes |
 | @azure/arm-imagebuilder | 2.0.0 | https://www.npmjs.com/package/@azure/arm-imagebuilder |
 | @azure/arm-iotcentral | 6.0.0 | https://www.npmjs.com/package/@azure/arm-iotcentral |
