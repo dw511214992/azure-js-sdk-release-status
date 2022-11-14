@@ -4,9 +4,9 @@ All data comes from NPM, and it is refreshed every day.
 ## Packages that Stable Release in Track2
 |  PackageName   | Version  | Url |
 |  :----:  | :----:  | :----: |
-| @azure/arm-advisor | 3.0.3 | https://www.npmjs.com/package/@azure/arm-advisor |
-| @azure/arm-agrifood | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-agrifood |
-| @azure/arm-analysisservices | 4.1.2 | https://www.npmjs.com/package/@azure/arm-analysisservices |
+| @azure/arm-advisor | 3.1.0 | https://www.npmjs.com/package/@azure/arm-advisor |
+| @azure/arm-agrifood | 1.0.0-beta.4 | https://www.npmjs.com/package/@azure/arm-agrifood |
+| @azure/arm-analysisservices | 4.1.3 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.1.2 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-app | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-app |
 | @azure/arm-appcomplianceautomation | 1.0.0-alpha.20221102.1 | https://www.npmjs.com/package/@azure/arm-appcomplianceautomation |
@@ -140,7 +140,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-resourceconnector | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-resourceconnector |
 | @azure/arm-resourcehealth | 3.1.0 | https://www.npmjs.com/package/@azure/arm-resourcehealth |
 | @azure/arm-resourcemover | 2.0.1 | https://www.npmjs.com/package/@azure/arm-resourcemover |
-| @azure/arm-resources | 5.0.1 | https://www.npmjs.com/package/@azure/arm-resources |
+| @azure/arm-resources | 5.1.0 | https://www.npmjs.com/package/@azure/arm-resources |
 | @azure/arm-resources-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-resources-profile-2020-09-01-hybrid |
 | @azure/arm-resources-subscriptions | 2.0.1 | https://www.npmjs.com/package/@azure/arm-resources-subscriptions |
 | @azure/arm-scvmm | 1.0.0-beta.2 | https://www.npmjs.com/package/@azure/arm-scvmm |
@@ -162,7 +162,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-storsimple1200series | 2.0.1 | https://www.npmjs.com/package/@azure/arm-storsimple1200series |
 | @azure/arm-storsimple8000series | 2.0.1 | https://www.npmjs.com/package/@azure/arm-storsimple8000series |
 | @azure/arm-streamanalytics | 4.0.1 | https://www.npmjs.com/package/@azure/arm-streamanalytics |
-| @azure/arm-subscriptions | 5.0.1 | https://www.npmjs.com/package/@azure/arm-subscriptions |
+| @azure/arm-subscriptions | 5.1.0 | https://www.npmjs.com/package/@azure/arm-subscriptions |
 | @azure/arm-subscriptions-profile-2020-09-01-hybrid | 2.0.0 | https://www.npmjs.com/package/@azure/arm-subscriptions-profile-2020-09-01-hybrid |
 | @azure/arm-support | 2.0.2 | https://www.npmjs.com/package/@azure/arm-support |
 | @azure/arm-synapse | 8.0.0 | https://www.npmjs.com/package/@azure/arm-synapse |
