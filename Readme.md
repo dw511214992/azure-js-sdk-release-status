@@ -9,7 +9,7 @@ All data comes from NPM, and it is refreshed every day.
 | @azure/arm-analysisservices | 4.1.3 | https://www.npmjs.com/package/@azure/arm-analysisservices |
 | @azure/arm-apimanagement | 8.1.2 | https://www.npmjs.com/package/@azure/arm-apimanagement |
 | @azure/arm-app | 1.0.0-beta.3 | https://www.npmjs.com/package/@azure/arm-app |
-| @azure/arm-appcomplianceautomation | 1.0.0-alpha.20221102.1 | https://www.npmjs.com/package/@azure/arm-appcomplianceautomation |
+| @azure/arm-appcomplianceautomation | 1.0.0-beta.1 | https://www.npmjs.com/package/@azure/arm-appcomplianceautomation |
 | @azure/arm-appconfiguration | 3.0.2 | https://www.npmjs.com/package/@azure/arm-appconfiguration |
 | @azure/arm-appcontainers | 1.1.2 | https://www.npmjs.com/package/@azure/arm-appcontainers |
 | @azure/arm-appplatform | 2.0.0 | https://www.npmjs.com/package/@azure/arm-appplatform |
